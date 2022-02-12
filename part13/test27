@@ -1,0 +1,6 @@
+#!/bin/bash
+# getting just one character of input
+
+read -s -p "Enter youe password: " pass
+echo
+echo "Is your password reslly $pass"
