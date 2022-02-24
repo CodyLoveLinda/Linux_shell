@@ -1,0 +1,97 @@
+
+modules {
+  key: "Canbus-pacifica"
+  value: {
+    start_command: "/xurban/scripts/canbus.sh"
+    stop_command: ""
+    process_monitor_config {
+      command_keywords: "mainboard"
+      command_keywords: "/modules/canbus/dag/canbus.dag"
+    }
+  }
+}
+cyber_modules {
+  key: "Camera"
+  value: {
+    dag_files: "/xurban/modules/drivers/camera/dag/camera_gen5_left_front_only.dag"
+  }
+}
+cyber_modules {
+  key: "Localization"
+  value: {
+    dag_files: "/xurban/modules/localization/dag/dag_streaming_lidar_localization.dag"
+    dag_files: "/xurban/modules/localization/dag/dag_streaming_error_state_kalman_filter.dag"
+  }
+}
+cyber_modules {
+  key: "Lidar"
+  value: {
+    dag_files: "/xurban/modules/drivers/hesai/dag/dual_hesai128.dag"
+  }
+}
+cyber_modules {
+  key: "HesaiQt"
+  value: {
+    dag_files: "/xurban/modules/drivers/hesai/dag/hesai_qt.dag"
+    required_for_safety : false
+  }
+}
+cyber_modules {
+  key: "Front Radar"
+  value: {
+    dag_files: "/xurban/modules/drivers/radar/oculii_radar_eagle/dag/oculii3d_radar_front.dag"
+    required_for_safety : false
+  }
+}
+monitored_components {
+  key: "Front Radar"
+  value: {
+    channel {
+      name: "/xurban/sensor/radar/oculii/front/tracks"
+    }
+    required_for_safety : false
+  }
+}
+monitored_components {
+  key: "Front left 6mm"
+  value: {
+    header {
+      channel_names: "/xurban/sensor/camera/left_0_n_6mm/image_header"
+    }
+  }
+}
+monitored_components {
+  key: "Front left 12mm"
+  value: {
+    header {
+      channel_names: "/xurban/sensor/camera/left_0_n_12mm/image_header"
+    }
+  }
+}
+monitored_components {
+  key: "Lidar"
+  value: {
+    header {
+      channel_names: "/xurban/sensor/lidar/left/PointCloudPack_header"
+      channel_names: "/xurban/sensor/lidar/right/PointCloudPack_header"
+    }
+  }
+}
+monitored_components {
+  key: "Blindspot Lidar"
+  value: {
+    header {
+      channel_names: "/xurban/sensor/lidar/pandarqt/front/PointCloudPack_header"
+      channel_names: "/xurban/sensor/lidar/pandarqt/rear/PointCloudPack_header"
+      channel_names: "/xurban/sensor/lidar/pandarqt/left/PointCloudPack_header"
+      channel_names: "/xurban/sensor/lidar/pandarqt/right/PointCloudPack_header"
+    }
+    required_for_safety : false
+  }
+}
+disabled_monitors: "Visibility Map"
+disabled_monitors: "Front 4mm"
+disabled_monitors: "Front 12mm"
+disabled_monitors: "Calibration"
+disabled_modules: "Canbus"
+disabled_modules: "MapUpdateRecorder"

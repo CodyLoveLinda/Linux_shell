@@ -6,20 +6,19 @@
 #sed -i '1i drink tea' camer.pb.txt
 NUM=1
 vsr1=1
-cat record_topics.pb.txt | while read line
+cat custom_hmi.pb.txt | while read line
 do
     #if [ echo $line | grep 'image' ]; then
 	#echo $line
     #fi
-    vat=`echo $line | grep '/image/'` #找到包含的字符串
+    vat=`echo $line | grep '/key: "Camera"/'` #找到包含的字符串
+    echo $vat
     if [ -n "$vat" ]; then
-	#echo $line
 	#line=`echo $line | sed '/^$/d'` #去掉空格
     	#line=`echo ${vat%/*} | sed  "s/image/image_header/g"` #替换字符串
-	#line=`echo $line |sed 's/$/&"/g'` #尾部增加"
-	line=`echo $line | sed "s/compressed/compressed_header/g"`
+	#line=`echo $line |sed 's/$/&"/g'`
 	echo $line
-	NUM=$[$NUM + $vsr1]
+	#NUM=$[$NUM + $vsr1]
 	#sed '$1i drink tea'
     #else
 	    #echo $line
