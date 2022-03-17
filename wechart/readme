@@ -1,0 +1,6 @@
+login wechat in google chrome
+F12 get the wechat cookies
+get 3 range num for deviceId post 3
+get 10 range time num fot Front 10
+
+use crontable -e for timer job
