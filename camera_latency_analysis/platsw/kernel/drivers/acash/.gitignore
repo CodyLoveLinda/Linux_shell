@@ -1,0 +1,14 @@
+.vscode/settings.json
+drv/.cache.mk
+include/qdma_reg_dump.h
+libqdma/qdma_access/qdma_access.o
+libqdma/qdma_access/qdma_list.o
+libqdma/qdma_access/qdma_mbox_protocol.o
+libqdma/qdma_access/qdma_resource_mgmt.o
+libqdma/qdma_access/.qdma_access.o.cmd
+libqdma/qdma_access/.qdma_list.o.cmd
+libqdma/qdma_access/.qdma_mbox_protocol.o.cmd
+libqdma/qdma_access/.qdma_resource_mgmt.o.cmd
+
+
+
