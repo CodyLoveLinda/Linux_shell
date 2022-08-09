@@ -1,0 +1,2175 @@
+top - 11:17:27 up 4 days, 31 min,  1 user,  load average: 0.42, 0.64, 0.56
+Tasks: 674 total,   1 running, 651 sleeping,  20 stopped,   2 zombie
+%Cpu(s):  2.1 us,  1.1 sy,  0.0 ni, 96.8 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :  63750.7 total,   2400.1 free,  17086.9 used,  44263.6 buff/cache
+MiB Swap:    976.0 total,    933.5 free,     42.5 used.  45396.2 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+3145028 mingmin+  20   0   29680   5352   3980 R  12.5   0.0   0:00.03 top -bcisSn1
+   2649 mingmin+  20   0 4889276 609696 126880 S   6.2   0.9  22:59.11 /usr/bin/gnome-shell
+   3031 mingmin+  20   0 2141916 281620  45088 S   6.2   0.4 222:34.38 c:/Program Files/WXWork/WXWork.exe
+   3308 mingmin+  20   0   17.3g 989.4m 241308 S   6.2   1.6  96:25.67 /opt/google/chrome/chrome --type=gp+
+2508657 mingmin+  20   0   36.4g 351124 117608 S   6.2   0.5  65:18.40 /opt/google/chrome/chrome --type=re+
+3140120 mingmin+  20   0   24.6g 480732 128636 S   6.2   0.7   1:14.29 /opt/google/chrome/chrome --type=re+
+top - 11:17:37 up 4 days, 31 min,  1 user,  load average: 0.35, 0.62, 0.55
+Tasks: 674 total,   1 running, 651 sleeping,  20 stopped,   2 zombie
+%Cpu(s):  8.7 us,  3.1 sy,  0.0 ni, 88.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :  63750.7 total,   2406.9 free,  17078.9 used,  44264.8 buff/cache
+MiB Swap:    976.0 total,    933.5 free,     42.5 used.  45403.2 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+3140120 mingmin+  20   0   24.6g 484480 128636 S  41.2   0.7   1:15.25 /opt/google/chrome/chrome --type=re+
+   3265 mingmin+  20   0   16.8g 832828 201308 S  23.5   1.3  82:24.40 /opt/google/chrome/chrome --enable-+
+   3309 mingmin+  20   0   16.4g 158580  88820 S  11.8   0.2  27:46.94 /opt/google/chrome/chrome --type=ut+
+3145112 mingmin+  20   0   29680   5312   3944 R  11.8   0.0   0:00.03 top -bcisSn1
+   1333 message+  20   0  621284 546820   4464 S   5.9   0.8  11:17.40 /usr/bin/dbus-daemon --system --add+
+   1433 root      20   0 4517120  48144  26560 S   5.9   0.1  25:22.60 /usr/bin/containerd
+   3031 mingmin+  20   0 2141916 281620  45088 S   5.9   0.4 222:34.93 c:/Program Files/WXWork/WXWork.exe
+   3308 mingmin+  20   0   17.3g 986.9m 241560 S   5.9   1.5  96:26.58 /opt/google/chrome/chrome --type=gp+
+ 141790 mingmin+  20   0   24.4g 238004 108180 S   5.9   0.4   0:32.94 /opt/google/chrome/chrome --type=re+
+ 141892 mingmin+  20   0   24.4g 103152  73280 S   5.9   0.2   0:05.16 /opt/google/chrome/chrome --type=re+
+ 141962 mingmin+  20   0   24.4g 119328  75808 S   5.9   0.2   0:05.48 /opt/google/chrome/chrome --type=re+
+ 142461 mingmin+  20   0   24.4g 108692  72720 S   5.9   0.2   0:05.13 /opt/google/chrome/chrome --type=re+
+2260038 mingmin+  20   0   24.4g 160404 100812 S   5.9   0.2   0:08.75 /opt/google/chrome/chrome --type=re+
+top - 11:17:47 up 4 days, 31 min,  1 user,  load average: 0.30, 0.60, 0.54
+Tasks: 673 total,   1 running, 650 sleeping,  20 stopped,   2 zombie
+%Cpu(s): 18.2 us,  2.1 sy,  0.0 ni, 79.8 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :  63750.7 total,   2433.6 free,  17053.6 used,  44263.5 buff/cache
+MiB Swap:    976.0 total,    933.5 free,     42.5 used.  45430.1 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+3140120 mingmin+  20   0   24.6g 465552 128548 S 305.9   0.7   1:18.04 /opt/google/chrome/chrome --type=re+
+2508657 mingmin+  20   0   36.4g 351124 117608 S   5.9   0.5  65:19.42 /opt/google/chrome/chrome --type=re+
+3145203 mingmin+  20   0   29680   5292   3924 R   5.9   0.0   0:00.02 top -bcisSn1
+top - 11:17:58 up 4 days, 31 min,  1 user,  load average: 0.70, 0.68, 0.57
+Tasks: 673 total,   1 running, 650 sleeping,  20 stopped,   2 zombie
+%Cpu(s):  5.8 us,  3.4 sy,  0.0 ni, 90.7 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :  63750.7 total,   2391.6 free,  17094.8 used,  44264.3 buff/cache
+MiB Swap:    976.0 total,    933.5 free,     42.5 used.  45388.4 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+3140120 mingmin+  20   0   24.6g 507860 128460 S  31.2   0.8   1:20.45 /opt/google/chrome/chrome --type=re+
+   3265 mingmin+  20   0   16.8g 832024 201144 S  18.8   1.3  82:25.82 /opt/google/chrome/chrome --enable-+
+   1765 root     -51   0       0      0      0 S   6.2   0.0  11:15.86 [irq/153-nvidia]
+   2518 root      20   0   24.3g 110172  70120 S   6.2   0.2  15:12.77 /usr/lib/xorg/Xorg vt2 -displayfd 3+
+   2649 mingmin+  20   0 4889276 609568 126880 S   6.2   0.9  23:00.78 /usr/bin/gnome-shell
+   3308 mingmin+  20   0   17.3g 986.2m 240776 S   6.2   1.5  96:28.38 /opt/google/chrome/chrome --type=gp+
+   3873 mingmin+  20   0   32.6g 193760  81916 S   6.2   0.3  25:17.90 /usr/lib/slack/slack --type=gpu-pro+
+  12852 mingmin+  20   0 3004312 339724 154652 S   6.2   0.5  26:08.75 /usr/lib/firefox/firefox -contentpr+
+ 141846 mingmin+  20   0   24.4g 137144  77064 S   6.2   0.2   0:08.11 /opt/google/chrome/chrome --type=re+
+ 141918 mingmin+  20   0   24.4g 194932  75984 S   6.2   0.3   0:13.83 /opt/google/chrome/chrome --type=re+
+ 142010 mingmin+  20   0   24.4g 116100  71440 S   6.2   0.2   0:05.71 /opt/google/chrome/chrome --type=re+
+ 142461 mingmin+  20   0   24.4g 108728  72720 S   6.2   0.2   0:05.18 /opt/google/chrome/chrome --type=re+
+3145289 mingmin+  20   0   29680   5360   3988 R   6.2   0.0   0:00.02 top -bcisSn1
+top - 11:18:08 up 4 days, 31 min,  1 user,  load average: 0.59, 0.66, 0.56
+Tasks: 673 total,   1 running, 650 sleeping,  20 stopped,   2 zombie
+%Cpu(s):  1.5 us,  2.1 sy,  0.0 ni, 96.4 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :  63750.7 total,   2399.6 free,  17089.7 used,  44261.3 buff/cache
+MiB Swap:    976.0 total,    933.5 free,     42.5 used.  45396.6 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+3145397 mingmin+  20   0   29680   5144   3776 R  25.0   0.0   0:00.05 top -bcisSn1
+   3370 mingmin+  20   0   24.4g 264304 112352 S  12.5   0.4   6:10.74 /opt/google/chrome/chrome --type=re+
+   1333 message+  20   0  621680 547252   4464 S   6.2   0.8  11:18.06 /usr/bin/dbus-daemon --system --add+
+   2649 mingmin+  20   0 4889276 609632 126880 S   6.2   0.9  23:01.27 /usr/bin/gnome-shell
+   3308 mingmin+  20   0   17.3g 985.8m 240944 S   6.2   1.5  96:29.28 /opt/google/chrome/chrome --type=gp+
+  24293 root      20   0 2121280  13300  11580 S   6.2   0.0  10:07.90 /opt/teamviewer/tv_bin/teamviewerd +
+2508657 mingmin+  20   0   32.4g 349048 117608 S   6.2   0.5  65:20.41 /opt/google/chrome/chrome --type=re+
+3140120 mingmin+  20   0   24.6g 502728 128460 S   6.2   0.8   1:21.05 /opt/google/chrome/chrome --type=re+
+top - 11:18:18 up 4 days, 32 min,  1 user,  load average: 0.74, 0.68, 0.57
+Tasks: 673 total,   2 running, 649 sleeping,  20 stopped,   2 zombie
+%Cpu(s):  4.4 us,  4.1 sy,  0.0 ni, 91.5 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :  63750.7 total,   2370.5 free,  17113.9 used,  44266.2 buff/cache
+MiB Swap:    976.0 total,    933.5 free,     42.5 used.  45368.0 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2649 mingmin+  20   0 4889276 609600 126880 R  43.8   0.9  23:01.83 /usr/bin/gnome-shell
+3145519 mingmin+  20   0   29680   5348   3980 R  25.0   0.0   0:00.05 top -bcisSn1
+   3031 mingmin+  20   0 2141916 281620  45088 S  12.5   0.4 222:36.75 c:/Program Files/WXWork/WXWork.exe
+   3036 mingmin+  20   0    9772   6872   2028 S  12.5   0.0 146:34.35 /usr/lib/i386-linux-gnu/deepin-wine+
+   3308 mingmin+  20   0   17.3g 986.8m 241224 S  12.5   1.5  96:30.01 /opt/google/chrome/chrome --type=gp+
+   1333 message+  20   0  621776 547360   4464 S   6.2   0.8  11:18.23 /usr/bin/dbus-daemon --system --add+
+   1765 root     -51   0       0      0      0 S   6.2   0.0  11:16.33 [irq/153-nvidia]
+2508657 mingmin+  20   0   32.4g 349052 117608 S   6.2   0.5  65:20.81 /opt/google/chrome/chrome --type=re+
+3140120 mingmin+  20   0   24.6g 521412 128752 S   6.2   0.8   1:22.29 /opt/google/chrome/chrome --type=re+
+top - 11:18:28 up 4 days, 32 min,  1 user,  load average: 0.70, 0.68, 0.57
+Tasks: 673 total,   1 running, 650 sleeping,  20 stopped,   2 zombie
+%Cpu(s):  1.2 us,  2.7 sy,  0.0 ni, 96.1 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :  63750.7 total,   2406.8 free,  17081.9 used,  44262.0 buff/cache
+MiB Swap:    976.0 total,    933.5 free,     42.5 used.  45404.2 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+3145608 mingmin+  20   0   29680   5348   3980 R  25.0   0.0   0:00.05 top -bcisSn1
+   2649 mingmin+  20   0 4889276 609572 126884 S  12.5   0.9  23:02.64 /usr/bin/gnome-shell
+   3308 mingmin+  20   0   17.3g 986.7m 241312 S  12.5   1.5  96:30.76 /opt/google/chrome/chrome --type=gp+
+   1765 root     -51   0       0      0      0 S   6.2   0.0  11:16.51 [irq/153-nvidia]
+   3031 mingmin+  20   0 2141916 281620  45088 S   6.2   0.4 222:37.25 c:/Program Files/WXWork/WXWork.exe
+2508657 mingmin+  20   0   36.4g 350428 117608 S   6.2   0.5  65:21.30 /opt/google/chrome/chrome --type=re+
+top - 11:18:38 up 4 days, 32 min,  1 user,  load average: 1.20, 0.79, 0.61
+Tasks: 673 total,   1 running, 650 sleeping,  20 stopped,   2 zombie
+%Cpu(s):  3.9 us,  0.7 sy,  0.0 ni, 95.4 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :  63750.7 total,   2344.3 free,  17139.5 used,  44266.9 buff/cache
+MiB Swap:    976.0 total,    933.5 free,     42.5 used.  45341.9 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+3140120 mingmin+  20   0   24.6g 524716 129116 S  35.3   0.8   1:26.91 /opt/google/chrome/chrome --type=re+
+   3265 mingmin+  20   0   16.8g 835056 201308 S  11.8   1.3  82:28.03 /opt/google/chrome/chrome --enable-+
+   1765 root     -51   0       0      0      0 S   5.9   0.0  11:16.75 [irq/153-nvidia]
+   2649 mingmin+  20   0 4889276 609572 126884 S   5.9   0.9  23:03.21 /usr/bin/gnome-shell
+   3308 mingmin+  20   0   17.3g   1.0g 241816 S   5.9   1.6  96:31.65 /opt/google/chrome/chrome --type=gp+
+   3309 mingmin+  20   0   16.4g 158640  88820 S   5.9   0.2  27:48.59 /opt/google/chrome/chrome --type=ut+
+   3873 mingmin+  20   0   32.6g 193580  81916 S   5.9   0.3  25:18.05 /usr/lib/slack/slack --type=gpu-pro+
+  12615 mingmin+  20   0 3890112 434748 189668 S   5.9   0.7  20:05.77 /usr/lib/firefox/firefox
+ 141905 mingmin+  20   0   24.4g 106440  72488 S   5.9   0.2   0:05.14 /opt/google/chrome/chrome --type=re+
+ 141968 mingmin+  20   0   24.4g 109944  74004 S   5.9   0.2   0:06.01 /opt/google/chrome/chrome --type=re+
+3140579 mingmin+  20   0   24.4g  94056  72620 S   5.9   0.1   0:00.56 /opt/google/chrome/chrome --type=re+
+3145694 mingmin+  20   0   29680   5360   3992 R   5.9   0.0   0:00.02 top -bcisSn1
+top - 11:18:49 up 4 days, 32 min,  1 user,  load average: 1.09, 0.78, 0.61
+Tasks: 673 total,   1 running, 650 sleeping,  20 stopped,   2 zombie
+%Cpu(s):  1.2 us,  2.1 sy,  0.0 ni, 96.7 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :  63750.7 total,   2351.7 free,  17135.8 used,  44263.2 buff/cache
+MiB Swap:    976.0 total,    933.5 free,     42.5 used.  45349.4 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+3145792 mingmin+  20   0   29680   5352   3980 R  31.2   0.0   0:00.06 top -bcisSn1
+   2649 mingmin+  20   0 4889276 609572 126884 S  12.5   0.9  23:03.73 /usr/bin/gnome-shell
+3140120 mingmin+  20   0   24.6g 522532 128180 S  12.5   0.8   1:27.46 /opt/google/chrome/chrome --type=re+
+   3031 mingmin+  20   0 2141916 281620  45088 S   6.2   0.4 222:38.09 c:/Program Files/WXWork/WXWork.exe
+   3036 mingmin+  20   0    9772   6872   2028 S   6.2   0.0 146:35.20 /usr/lib/i386-linux-gnu/deepin-wine+
+   3308 mingmin+  20   0   17.3g 998.5m 240676 S   6.2   1.6  96:32.53 /opt/google/chrome/chrome --type=gp+
+2508657 mingmin+  20   0   36.4g 350428 117608 S   6.2   0.5  65:22.29 /opt/google/chrome/chrome --type=re+
+top - 11:18:59 up 4 days, 32 min,  1 user,  load average: 1.23, 0.82, 0.62
+Tasks: 673 total,   3 running, 648 sleeping,  20 stopped,   2 zombie
+%Cpu(s):  1.9 us,  2.8 sy,  0.0 ni, 95.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :  63750.7 total,   2355.0 free,  17129.1 used,  44266.6 buff/cache
+MiB Swap:    976.0 total,    933.5 free,     42.5 used.  45352.9 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+3145882 mingmin+  20   0   29680   5356   3988 R  20.0   0.0   0:00.08 top -bcisSn1
+   3265 mingmin+  20   0   16.8g 834512 201308 R  10.0   1.3  82:28.83 /opt/google/chrome/chrome --enable-+
+   3309 mingmin+  20   0   16.4g 158440  88820 S  10.0   0.2  27:49.06 /opt/google/chrome/chrome --type=ut+
+3140120 mingmin+  20   0   24.6g 526852 128356 S  10.0   0.8   1:28.49 /opt/google/chrome/chrome --type=re+
+   1333 message+  20   0  622352 547996   4464 S   5.0   0.8  11:19.11 /usr/bin/dbus-daemon --system --add+
+   1765 root     -51   0       0      0      0 S   5.0   0.0  11:17.20 [irq/153-nvidia]
+   2649 mingmin+  20   0 4889276 609572 126884 S   5.0   0.9  23:04.34 /usr/bin/gnome-shell
+   3308 mingmin+  20   0   17.3g 999.3m 241116 R   5.0   1.6  96:33.44 /opt/google/chrome/chrome --type=gp+
+3086438 mingmin+  20   0  157852  37256  21208 S   5.0   0.1   4:02.47 /usr/bin/vncviewer -child pacifica-+
+top - 11:19:09 up 4 days, 32 min,  1 user,  load average: 1.04, 0.79, 0.62
+Tasks: 673 total,   1 running, 650 sleeping,  20 stopped,   2 zombie
+%Cpu(s):  1.4 us,  1.4 sy,  0.0 ni, 97.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :  63750.7 total,   2344.2 free,  17143.3 used,  44263.1 buff/cache
+MiB Swap:    976.0 total,    933.5 free,     42.5 used.  45342.4 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   3031 mingmin+  20   0 2141916 281620  45088 S  12.5   0.4 222:39.02 c:/Program Files/WXWork/WXWork.exe
+   3036 mingmin+  20   0    9772   6872   2028 S   6.2   0.0 146:35.80 /usr/lib/i386-linux-gnu/deepin-wine+
+   3308 mingmin+  20   0   17.3g 998.8m 241028 S   6.2   1.6  96:34.29 /opt/google/chrome/chrome --type=gp+
+  24293 root      20   0 2121280  13300  11580 S   6.2   0.0  10:08.03 /opt/teamviewer/tv_bin/teamviewerd +
+2508657 mingmin+  20   0   32.4g 348924 117608 S   6.2   0.5  65:23.33 /opt/google/chrome/chrome --type=re+
+3140120 mingmin+  20   0   24.6g 539868 128516 S   6.2   0.8   1:29.96 /opt/google/chrome/chrome --type=re+
+3145976 mingmin+  20   0   29680   5144   3776 R   6.2   0.0   0:00.02 top -bcisSn1
+top - 11:19:19 up 4 days, 33 min,  1 user,  load average: 0.96, 0.78, 0.62
+Tasks: 673 total,   1 running, 650 sleeping,  20 stopped,   2 zombie
+%Cpu(s):  1.6 us,  1.6 sy,  0.0 ni, 96.8 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :  63750.7 total,   2330.9 free,  17152.4 used,  44267.3 buff/cache
+MiB Swap:    976.0 total,    933.5 free,     42.5 used.  45329.3 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+3146096 mingmin+  20   0   29680   5248   3876 R  12.5   0.0   0:00.03 top -bcisSn1
+   3031 mingmin+  20   0 2141916 281620  45088 S   6.2   0.4 222:39.35 c:/Program Files/WXWork/WXWork.exe
+   3036 mingmin+  20   0    9772   6872   2028 S   6.2   0.0 146:36.03 /usr/lib/i386-linux-gnu/deepin-wine+
+   3265 mingmin+  20   0   16.8g 834508 201072 S   6.2   1.3  82:29.90 /opt/google/chrome/chrome --enable-+
+   3308 mingmin+  20   0   17.3g 999.3m 241268 S   6.2   1.6  96:34.98 /opt/google/chrome/chrome --type=gp+
+   3309 mingmin+  20   0   16.4g 158188  88820 S   6.2   0.2  27:49.60 /opt/google/chrome/chrome --type=ut+
+  12615 mingmin+  20   0 3890128 433744 189580 S   6.2   0.7  20:06.37 /usr/lib/firefox/firefox
+2508657 mingmin+  20   0   32.4g 348924 117608 S   6.2   0.5  65:23.74 /opt/google/chrome/chrome --type=re+
+3140120 mingmin+  20   0   24.6g 534664 128968 S   6.2   0.8   1:33.27 /opt/google/chrome/chrome --type=re+
+top - 11:19:29 up 4 days, 33 min,  1 user,  load average: 0.81, 0.76, 0.61
+Tasks: 673 total,   1 running, 650 sleeping,  20 stopped,   2 zombie
+%Cpu(s):  5.0 us,  2.3 sy,  0.0 ni, 92.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :  63750.7 total,   2317.8 free,  17168.9 used,  44264.0 buff/cache
+MiB Swap:    976.0 total,    933.5 free,     42.5 used.  45316.3 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+3146193 mingmin+  20   0   29680   5324   3952 R  25.0   0.0   0:00.04 top -bcisSn1
+  12852 mingmin+  20   0 3004312 349360 154520 S  18.8   0.5  26:10.52 /usr/lib/firefox/firefox -contentpr+
+   3265 mingmin+  20   0   16.8g 834128 201064 S  12.5   1.3  82:30.35 /opt/google/chrome/chrome --enable-+
+  12615 mingmin+  20   0 3890128 433908 189536 S  12.5   0.7  20:06.60 /usr/lib/firefox/firefox
+3086438 mingmin+  20   0  157852  37256  21208 S  12.5   0.1   4:04.12 /usr/bin/vncviewer -child pacifica-+
+3140120 mingmin+  20   0   24.6g 543136 128576 S  12.5   0.8   1:34.64 /opt/google/chrome/chrome --type=re+
+   1333 message+  20   0  622748 548432   4464 S   6.2   0.8  11:19.73 /usr/bin/dbus-daemon --system --add+
+   1765 root     -51   0       0      0      0 S   6.2   0.0  11:17.87 [irq/153-nvidia]
+   2649 mingmin+  20   0 4889276 609572 126884 S   6.2   0.9  23:06.07 /usr/bin/gnome-shell
+   3036 mingmin+  20   0    9772   6872   2028 S   6.2   0.0 146:36.26 /usr/lib/i386-linux-gnu/deepin-wine+
+   3308 mingmin+  20   0   17.3g 999.4m 241380 S   6.2   1.6  96:35.72 /opt/google/chrome/chrome --type=gp+
+   3309 mingmin+  20   0   16.4g 158412  88820 S   6.2   0.2  27:49.86 /opt/google/chrome/chrome --type=ut+
+  20166 mingmin+  20   0   20.4g 207876  63248 S   6.2   0.3 124:28.28 /usr/share/code/code --ms-enable-el+
+2508657 mingmin+  20   0   36.4g 350492 117608 S   6.2   0.5  65:24.18 /opt/google/chrome/chrome --type=re+
+top - 11:19:40 up 4 days, 33 min,  1 user,  load average: 0.63, 0.72, 0.60
+Tasks: 673 total,   1 running, 650 sleeping,  20 stopped,   2 zombie
+%Cpu(s):  2.1 us,  1.8 sy,  0.0 ni, 96.1 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :  63750.7 total,   2297.3 free,  17186.6 used,  44266.7 buff/cache
+MiB Swap:    976.0 total,    933.5 free,     42.5 used.  45296.1 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+3146302 mingmin+  20   0   29680   5208   3836 R  31.2   0.0   0:00.06 top -bcisSn1
+   3031 mingmin+  20   0 2141916 281620  45088 S  12.5   0.4 222:40.14 c:/Program Files/WXWork/WXWork.exe
+   1333 message+  20   0  622944 548648   4464 S   6.2   0.8  11:19.95 /usr/bin/dbus-daemon --system --add+
+   3036 mingmin+  20   0    9772   6872   2028 S   6.2   0.0 146:36.52 /usr/lib/i386-linux-gnu/deepin-wine+
+   3308 mingmin+  20   0   17.3g 999.7m 241624 S   6.2   1.6  96:36.53 /opt/google/chrome/chrome --type=gp+
+   3309 mingmin+  20   0   16.4g 158364  88812 S   6.2   0.2  27:50.14 /opt/google/chrome/chrome --type=ut+
+  12852 mingmin+  20   0 3004312 350124 154476 S   6.2   0.5  26:10.91 /usr/lib/firefox/firefox -contentpr+
+  19993 mingmin+  20   0   20.4g  82792  56316 S   6.2   0.1   5:42.77 /usr/share/code/code --ms-enable-el+
+ 141865 mingmin+  20   0   24.4g 229176 105200 S   6.2   0.4   0:33.67 /opt/google/chrome/chrome --type=re+
+ 191132 root      20   0   15516   4972   4568 S   6.2   0.0   0:10.11 ./ACI/kv/kvoop 5 8 0 191131_8186981+
+2508657 mingmin+  20   0   36.4g 350492 117608 S   6.2   0.5  65:24.63 /opt/google/chrome/chrome --type=re+
+3086438 mingmin+  20   0  157852  37256  21208 S   6.2   0.1   4:04.75 /usr/bin/vncviewer -child pacifica-+
+top - 11:19:50 up 4 days, 33 min,  1 user,  load average: 1.25, 0.84, 0.64
+Tasks: 673 total,   2 running, 649 sleeping,  20 stopped,   2 zombie
+%Cpu(s):  5.2 us,  2.8 sy,  0.0 ni, 91.7 id,  0.3 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :  63750.7 total,   2299.9 free,  17182.4 used,  44268.3 buff/cache
+MiB Swap:    976.0 total,    933.5 free,     42.5 used.  45298.9 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+3140120 mingmin+  20   0   24.6g 566796 128444 S  52.6   0.9   1:37.08 /opt/google/chrome/chrome --type=re+
+   3265 mingmin+  20   0   16.8g 836352 201156 S  15.8   1.3  82:31.41 /opt/google/chrome/chrome --enable-+
+3146423 mingmin+  20   0   29680   5324   3952 R  10.5   0.0   0:00.05 top -bcisSn1
+   1765 root     -51   0       0      0      0 S   5.3   0.0  11:18.32 [irq/153-nvidia]
+   3309 mingmin+  20   0   16.4g 158532  88816 S   5.3   0.2  27:50.41 /opt/google/chrome/chrome --type=ut+
+  12615 mingmin+  20   0 3890128 432960 189448 S   5.3   0.7  20:08.10 /usr/lib/firefox/firefox
+ 141892 mingmin+  20   0   24.4g 103412  73280 S   5.3   0.2   0:05.59 /opt/google/chrome/chrome --type=re+
+top - 11:20:00 up 4 days, 33 min,  1 user,  load average: 1.06, 0.82, 0.63
+Tasks: 673 total,   1 running, 650 sleeping,  20 stopped,   2 zombie
+%Cpu(s):  2.4 us,  2.1 sy,  0.0 ni, 95.5 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :  63750.7 total,   2329.1 free,  17155.1 used,  44266.5 buff/cache
+MiB Swap:    976.0 total,    933.5 free,     42.5 used.  45328.4 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+3146511 mingmin+  20   0   29680   5352   3980 R  18.8   0.0   0:00.04 top -bcisSn1
+   3031 mingmin+  20   0 2141916 281620  45088 S  12.5   0.4 222:40.90 c:/Program Files/WXWork/WXWork.exe
+   2518 root      20   0   24.3g 110172  70120 S   6.2   0.2  15:14.88 /usr/lib/xorg/Xorg vt2 -displayfd 3+
+   2649 mingmin+  20   0 4889276 609572 126884 S   6.2   0.9  23:07.64 /usr/bin/gnome-shell
+   3036 mingmin+  20   0    9772   6872   2028 S   6.2   0.0 146:37.02 /usr/lib/i386-linux-gnu/deepin-wine+
+   3308 mingmin+  20   0   17.3g 999.1m 240980 S   6.2   1.6  96:38.03 /opt/google/chrome/chrome --type=gp+
+ 141865 mingmin+  20   0   24.4g 229176 105200 S   6.2   0.4   0:33.71 /opt/google/chrome/chrome --type=re+
+2469284 mingmin+  20   0   24.4g 280820 111040 S   6.2   0.4   3:02.89 /opt/google/chrome/chrome --type=re+
+3140120 mingmin+  20   0   24.6g 535588 128084 S   6.2   0.8   1:39.87 /opt/google/chrome/chrome --type=re+
+top - 11:20:10 up 4 days, 33 min,  1 user,  load average: 1.05, 0.82, 0.64
+Tasks: 673 total,   3 running, 648 sleeping,  20 stopped,   2 zombie
+%Cpu(s):  3.1 us,  3.1 sy,  0.0 ni, 93.8 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :  63750.7 total,   2304.9 free,  17178.0 used,  44267.8 buff/cache
+MiB Swap:    976.0 total,    933.5 free,     42.5 used.  45303.7 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+3146608 mingmin+  20   0   29680   5364   3992 R  27.8   0.0   0:00.07 top -bcisSn1
+   2649 mingmin+  20   0 4889276 609572 126884 R  16.7   0.9  23:08.29 /usr/bin/gnome-shell
+3086438 mingmin+  20   0  157852  37256  21208 R  16.7   0.1   4:07.27 /usr/bin/vncviewer -child pacifica-+
+   3308 mingmin+  20   0   17.3g 999.1m 241156 S  11.1   1.6  96:38.83 /opt/google/chrome/chrome --type=gp+
+   1765 root     -51   0       0      0      0 S   5.6   0.0  11:18.79 [irq/153-nvidia]
+   3036 mingmin+  20   0    9772   6872   2028 S   5.6   0.0 146:37.29 /usr/lib/i386-linux-gnu/deepin-wine+
+2508657 mingmin+  20   0   32.4g 348988 117608 S   5.6   0.5  65:25.97 /opt/google/chrome/chrome --type=re+
+3140120 mingmin+  20   0   24.6g 560816 128852 S   5.6   0.9   1:40.88 /opt/google/chrome/chrome --type=re+
+top - 11:20:21 up 4 days, 34 min,  1 user,  load average: 0.89, 0.80, 0.63
+Tasks: 673 total,   1 running, 650 sleeping,  20 stopped,   2 zombie
+%Cpu(s):  2.4 us,  1.5 sy,  0.0 ni, 96.1 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :  63750.7 total,   2291.0 free,  17190.8 used,  44268.9 buff/cache
+MiB Swap:    976.0 total,    933.5 free,     42.5 used.  45290.0 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+3146701 mingmin+  20   0   29680   5092   3720 R  37.5   0.0   0:00.06 top -bcisSn1
+3086438 mingmin+  20   0  157852  37256  21208 S  12.5   0.1   4:08.07 /usr/bin/vncviewer -child pacifica-+
+   2518 root      20   0   24.3g 110172  70120 S   6.2   0.2  15:15.35 /usr/lib/xorg/Xorg vt2 -displayfd 3+
+   2649 mingmin+  20   0 4889276 609572 126884 S   6.2   0.9  23:08.87 /usr/bin/gnome-shell
+   3036 mingmin+  20   0    9772   6872   2028 S   6.2   0.0 146:37.55 /usr/lib/i386-linux-gnu/deepin-wine+
+   3308 mingmin+  20   0   17.3g 999.6m 241324 S   6.2   1.6  96:39.71 /opt/google/chrome/chrome --type=gp+
+2508657 mingmin+  20   0   32.4g 348988 117608 S   6.2   0.5  65:26.43 /opt/google/chrome/chrome --type=re+
+3140120 mingmin+  20   0   24.6g 577760 129028 S   6.2   0.9   1:42.87 /opt/google/chrome/chrome --type=re+
+top - 11:20:31 up 4 days, 34 min,  1 user,  load average: 0.75, 0.77, 0.62
+Tasks: 672 total,   1 running, 649 sleeping,  20 stopped,   2 zombie
+%Cpu(s):  2.4 us,  1.4 sy,  0.0 ni, 96.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :  63750.7 total,   2270.4 free,  17211.1 used,  44269.1 buff/cache
+MiB Swap:    976.0 total,    933.5 free,     42.5 used.  45269.6 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+3140120 mingmin+  20   0   24.6g 587972 129204 S  11.8   0.9   1:44.46 /opt/google/chrome/chrome --type=re+
+3146793 mingmin+  20   0   29680   5416   4044 R  11.8   0.0   0:00.02 top -bcisSn1
+   1765 root     -51   0       0      0      0 S   5.9   0.0  11:19.26 [irq/153-nvidia]
+   2649 mingmin+  20   0 4889276 609572 126884 S   5.9   0.9  23:09.50 /usr/bin/gnome-shell
+   3308 mingmin+  20   0   17.3g 999.7m 241500 S   5.9   1.6  96:40.50 /opt/google/chrome/chrome --type=gp+
+3086438 mingmin+  20   0  157852  37256  21208 S   5.9   0.1   4:08.84 /usr/bin/vncviewer -child pacifica-+
+top - 11:20:41 up 4 days, 34 min,  1 user,  load average: 0.79, 0.78, 0.63
+Tasks: 672 total,   1 running, 649 sleeping,  20 stopped,   2 zombie
+%Cpu(s): 22.5 us,  1.4 sy,  0.0 ni, 76.1 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :  63750.7 total,   2309.8 free,  17173.0 used,  44267.9 buff/cache
+MiB Swap:    976.0 total,    933.5 free,     42.5 used.  45309.1 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+3140120 mingmin+  20   0   24.6g 549456 127792 S 347.1   0.8   1:48.30 /opt/google/chrome/chrome --type=re+
+3146885 mingmin+  20   0   29680   5268   3896 R  11.8   0.0   0:00.03 top -bcisSn1
+   2518 root      20   0   24.3g 110172  70120 S   5.9   0.2  15:15.85 /usr/lib/xorg/Xorg vt2 -displayfd 3+
+   2649 mingmin+  20   0 4889276 609572 126884 S   5.9   0.9  23:10.08 /usr/bin/gnome-shell
+   3031 mingmin+  20   0 2141916 281624  45088 S   5.9   0.4 222:42.62 c:/Program Files/WXWork/WXWork.exe
+   3308 mingmin+  20   0   17.3g 998.7m 240680 S   5.9   1.6  96:41.28 /opt/google/chrome/chrome --type=gp+
+top - 11:23:11 up 4 days, 36 min,  1 user,  load average: 0.44, 0.66, 0.61
+Tasks: 674 total,   1 running, 651 sleeping,  20 stopped,   2 zombie
+%Cpu0  :  5.0 us,  0.0 sy,  0.0 ni, 95.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu1  :  4.8 us,  0.0 sy,  0.0 ni, 95.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu2  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu3  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu4  :  4.8 us,  0.0 sy,  0.0 ni, 95.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu5  :  4.8 us,  0.0 sy,  0.0 ni, 95.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu6  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu7  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu8  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu9  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu10 :  4.5 us,  4.5 sy,  0.0 ni, 90.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu11 :  4.8 us,  0.0 sy,  0.0 ni, 95.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu12 :  0.0 us,  9.1 sy,  0.0 ni, 90.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu13 :  4.8 us, 23.8 sy,  0.0 ni, 71.4 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu14 :  9.1 us,  4.5 sy,  0.0 ni, 86.4 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu15 :  0.0 us,  4.8 sy,  0.0 ni, 95.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :  63750.7 total,   2205.6 free,  17273.9 used,  44271.2 buff/cache
+MiB Swap:    976.0 total,    933.5 free,     42.5 used.  45207.7 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   1765 root     -51   0       0      0      0 S   5.3   0.0  11:22.63 [irq/153-nvidia]
+   2612 mingmin+  20   0   26004   3704   3112 S   5.3   0.0   0:08.42 /usr/bin/dbus-daemon --syslog --for+
+   2649 mingmin+  20   0 4889276 609572 126884 S   5.3   0.9  23:18.30 /usr/bin/gnome-shell
+   3265 mingmin+  20   0   16.8g 839244 200828 S   5.3   1.3  82:42.20 /opt/google/chrome/chrome --enable-+
+   3308 mingmin+  20   0   17.3g 999.9m 241336 S   5.3   1.6  96:53.45 /opt/google/chrome/chrome --type=gp+
+2508657 mingmin+  20   0   32.4g 349156 117608 S   5.3   0.5  65:34.50 /opt/google/chrome/chrome --type=re+
+3140120 mingmin+  20   0   24.5g 659248 129244 S   5.3   1.0   2:12.96 /opt/google/chrome/chrome --type=re+
+3148382 mingmin+  20   0   29680   5248   3876 R   5.3   0.0   0:00.05 top -bcisSn1
+top - 11:23:21 up 4 days, 37 min,  1 user,  load average: 0.45, 0.65, 0.61
+Tasks: 674 total,   1 running, 651 sleeping,  20 stopped,   2 zombie
+%Cpu0  :  4.8 us,  0.0 sy,  0.0 ni, 95.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu1  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu2  :  4.5 us,  0.0 sy,  0.0 ni, 95.5 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu3  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu4  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu5  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu6  :  4.8 us,  0.0 sy,  0.0 ni, 95.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu7  :  0.0 us,  4.8 sy,  0.0 ni, 95.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu8  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu9  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu10 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu11 :  5.0 us, 25.0 sy,  0.0 ni, 70.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu12 :  0.0 us,  5.0 sy,  0.0 ni, 95.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu13 :  0.0 us,  4.5 sy,  0.0 ni, 95.5 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu14 :  4.8 us,  0.0 sy,  0.0 ni, 95.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu15 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :  63750.7 total,   2175.1 free,  17301.2 used,  44274.4 buff/cache
+MiB Swap:    976.0 total,    933.5 free,     42.5 used.  45177.5 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+3148492 mingmin+  20   0   29680   5324   3952 R  23.5   0.0   0:00.05 top -bcisSn1
+   2649 mingmin+  20   0 4889276 609572 126884 S  11.8   0.9  23:18.96 /usr/bin/gnome-shell
+   1765 root     -51   0       0      0      0 S   5.9   0.0  11:22.92 [irq/153-nvidia]
+   3031 mingmin+  20   0 2141916 281628  45088 S   5.9   0.4 222:51.21 c:/Program Files/WXWork/WXWork.exe
+   3308 mingmin+  20   0   17.3g   1.0g 241644 S   5.9   1.6  96:54.37 /opt/google/chrome/chrome --type=gp+
+   3873 mingmin+  20   0   32.6g 193640  81916 S   5.9   0.3  25:19.05 /usr/lib/slack/slack --type=gpu-pro+
+  12695 mingmin+  20   0 2638284 166928 103160 S   5.9   0.3   2:32.95 /usr/lib/firefox/firefox -contentpr+
+  15507 mingmin+  20   0   24.4g 173828 116332 S   5.9   0.3   1:25.94 /opt/google/chrome/chrome --type=re+
+2508657 mingmin+  20   0   32.4g 349156 117608 S   5.9   0.5  65:34.98 /opt/google/chrome/chrome --type=re+
+3140120 mingmin+  20   0   24.5g 681252 129548 S   5.9   1.0   2:15.31 /opt/google/chrome/chrome --type=re+
+top - 11:23:31 up 4 days, 37 min,  1 user,  load average: 0.38, 0.63, 0.60
+Tasks: 674 total,   2 running, 650 sleeping,  20 stopped,   2 zombie
+%Cpu0  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu1  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu2  :  5.0 us,  0.0 sy,  0.0 ni, 95.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu3  :  5.0 us,  0.0 sy,  0.0 ni, 95.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu4  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu5  :  9.1 us,  4.5 sy,  0.0 ni, 86.4 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu6  :  5.0 us, 25.0 sy,  0.0 ni, 70.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu7  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu8  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu9  :  9.1 us,  0.0 sy,  0.0 ni, 90.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu10 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu11 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu12 :  0.0 us,  4.8 sy,  0.0 ni, 95.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu13 :  4.8 us,  0.0 sy,  0.0 ni, 95.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu14 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu15 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :  63750.7 total,   2211.4 free,  17268.6 used,  44270.7 buff/cache
+MiB Swap:    976.0 total,    933.5 free,     42.5 used.  45214.0 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+3148582 mingmin+  20   0   29680   5148   3776 R  25.0   0.0   0:00.05 top -bcisSn1
+   3031 mingmin+  20   0 2141916 281628  45088 S  12.5   0.4 222:51.71 c:/Program Files/WXWork/WXWork.exe
+   3308 mingmin+  20   0   17.3g   1.0g 240692 R  12.5   1.6  96:55.25 /opt/google/chrome/chrome --type=gp+
+   1765 root     -51   0       0      0      0 S   6.2   0.0  11:23.09 [irq/153-nvidia]
+   2518 root      20   0   24.3g 110172  70120 S   6.2   0.2  15:18.83 /usr/lib/xorg/Xorg vt2 -displayfd 3+
+   2649 mingmin+  20   0 4889276 609700 126884 S   6.2   0.9  23:19.59 /usr/bin/gnome-shell
+  10611 mingmin+  20   0  887464  88820  53576 S   6.2   0.1   0:47.18 /usr/bin/python3 /usr/bin/x-termina+
+2508657 mingmin+  20   0   36.4g 350716 117608 S   6.2   0.5  65:35.45 /opt/google/chrome/chrome --type=re+
+3140120 mingmin+  20   0   24.5g 635688 127928 S   6.2   1.0   2:18.63 /opt/google/chrome/chrome --type=re+
+top - 11:23:41 up 4 days, 37 min,  1 user,  load average: 0.56, 0.66, 0.61
+Tasks: 675 total,   1 running, 652 sleeping,  20 stopped,   2 zombie
+%Cpu0  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu1  :  5.0 us,  0.0 sy,  0.0 ni, 95.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu2  :  5.3 us,  0.0 sy,  0.0 ni, 94.7 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu3  :  5.3 us,  0.0 sy,  0.0 ni, 94.7 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu4  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu5  :  5.3 us,  0.0 sy,  0.0 ni, 94.7 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu6  :  5.0 us,  5.0 sy,  0.0 ni, 90.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu7  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu8  :  5.6 us, 16.7 sy,  0.0 ni, 77.8 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu9  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu10 :  0.0 us,  5.3 sy,  0.0 ni, 94.7 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu11 :  0.0 us,  5.3 sy,  0.0 ni, 89.5 id,  5.3 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu12 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu13 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu14 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu15 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :  63750.7 total,   2167.3 free,  17310.5 used,  44272.9 buff/cache
+MiB Swap:    976.0 total,    933.5 free,     42.5 used.  45170.2 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+3148697 mingmin+  20   0   29680   5328   3952 R  11.8   0.0   0:00.03 top -bcisSn1
+   3031 mingmin+  20   0 2141916 281628  45088 S   5.9   0.4 222:52.14 c:/Program Files/WXWork/WXWork.exe
+   3308 mingmin+  20   0   17.3g   1.0g 240984 S   5.9   1.6  96:56.07 /opt/google/chrome/chrome --type=gp+
+3140120 mingmin+  20   0   24.5g 682476 128876 S   5.9   1.0   2:20.11 /opt/google/chrome/chrome --type=re+
+top - 11:23:52 up 4 days, 37 min,  1 user,  load average: 0.71, 0.69, 0.62
+Tasks: 675 total,   1 running, 652 sleeping,  20 stopped,   2 zombie
+%Cpu0  :  8.0 us,  4.0 sy,  0.0 ni, 88.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu1  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu2  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu3  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu4  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu5  : 12.5 us, 29.2 sy,  0.0 ni, 58.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu6  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu7  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu8  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu9  :  8.3 us,  0.0 sy,  0.0 ni, 91.7 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu10 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu11 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu12 :  0.0 us,  4.2 sy,  0.0 ni, 95.8 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu13 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu14 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu15 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :  63750.7 total,   2181.5 free,  17293.7 used,  44275.4 buff/cache
+MiB Swap:    976.0 total,    933.5 free,     42.5 used.  45184.5 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+3148784 mingmin+  20   0   29680   5352   3980 R  26.3   0.0   0:00.09 top -bcisSn1
+      1 root      20   0  171456  13632   8504 S   5.3   0.0   1:44.38 /sbin/init text
+   2649 mingmin+  20   0 4889276 609748 126884 S   5.3   0.9  23:21.19 /usr/bin/gnome-shell
+   3031 mingmin+  20   0 2141916 281628  45088 S   5.3   0.4 222:52.65 c:/Program Files/WXWork/WXWork.exe
+   3308 mingmin+  20   0   17.3g   1.0g 240996 S   5.3   1.6  96:57.02 /opt/google/chrome/chrome --type=gp+
+  12852 mingmin+  20   0 2993048 318528 154524 S   5.3   0.5  26:16.43 /usr/lib/firefox/firefox -contentpr+
+3140120 mingmin+  20   0   24.5g 665920 128876 S   5.3   1.0   2:20.74 /opt/google/chrome/chrome --type=re+
+top - 11:24:02 up 4 days, 37 min,  1 user,  load average: 0.60, 0.67, 0.61
+Tasks: 675 total,   1 running, 652 sleeping,  20 stopped,   2 zombie
+%Cpu0  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu1  :  0.0 us,  5.0 sy,  0.0 ni, 95.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu2  :  5.6 us,  0.0 sy,  0.0 ni, 94.4 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu3  :  5.3 us,  0.0 sy,  0.0 ni, 94.7 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu4  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu5  :  0.0 us,  5.3 sy,  0.0 ni, 94.7 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu6  :  5.3 us,  5.3 sy,  0.0 ni, 89.5 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu7  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu8  :  5.3 us,  0.0 sy,  0.0 ni, 94.7 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu9  :  0.0 us, 11.8 sy,  0.0 ni, 88.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu10 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu11 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu12 :  0.0 us, 11.1 sy,  0.0 ni, 88.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu13 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu14 :  5.0 us,  0.0 sy,  0.0 ni, 95.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu15 :  4.8 us,  4.8 sy,  0.0 ni, 90.5 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :  63750.7 total,   2156.5 free,  17319.9 used,  44274.3 buff/cache
+MiB Swap:    976.0 total,    933.5 free,     42.5 used.  45159.8 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   3308 mingmin+  20   0   17.3g   1.0g 241352 S  17.6   1.6  96:57.83 /opt/google/chrome/chrome --type=gp+
+   1333 message+  20   0  626348 552392   4464 S  11.8   0.8  11:25.24 /usr/bin/dbus-daemon --system --add+
+   2649 mingmin+  20   0 4889276 609572 126884 S  11.8   0.9  23:21.74 /usr/bin/gnome-shell
+   1765 root     -51   0       0      0      0 S   5.9   0.0  11:23.71 [irq/153-nvidia]
+   3031 mingmin+  20   0 2141916 281628  45088 S   5.9   0.4 222:53.03 c:/Program Files/WXWork/WXWork.exe
+   3113 mingmin+  20   0 2699920  23484  19232 S   5.9   0.0   6:43.34 C:\windows\system32\explorer.exe /d+
+   3265 mingmin+  20   0   16.8g 842932 201104 S   5.9   1.3  82:45.71 /opt/google/chrome/chrome --enable-+
+2508657 mingmin+  20   0   32.4g 349212 117608 S   5.9   0.5  65:36.90 /opt/google/chrome/chrome --type=re+
+3140120 mingmin+  20   0   24.5g 687460 128800 S   5.9   1.1   2:22.92 /opt/google/chrome/chrome --type=re+
+top - 11:24:12 up 4 days, 38 min,  1 user,  load average: 0.51, 0.64, 0.61
+Tasks: 675 total,   1 running, 652 sleeping,  20 stopped,   2 zombie
+%Cpu0  :  5.6 us,  0.0 sy,  0.0 ni, 94.4 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu1  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu2  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu3  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu4  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu5  :  5.3 us,  0.0 sy,  0.0 ni, 94.7 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu6  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu7  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu8  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu9  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu10 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu11 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu12 :  5.6 us,  5.6 sy,  0.0 ni, 88.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu13 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu14 :  5.9 us,  0.0 sy,  0.0 ni, 94.1 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu15 :  5.3 us,  0.0 sy,  0.0 ni, 94.7 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :  63750.7 total,   2163.2 free,  17313.1 used,  44274.3 buff/cache
+MiB Swap:    976.0 total,    933.5 free,     42.5 used.  45166.6 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+3148976 mingmin+  20   0   29680   5364   3988 R  11.8   0.0   0:00.02 top -bcisSn1
+   3031 mingmin+  20   0 2141916 281628  45088 S   5.9   0.4 222:53.56 c:/Program Files/WXWork/WXWork.exe
+   3308 mingmin+  20   0   17.3g   1.0g 241352 S   5.9   1.6  96:58.62 /opt/google/chrome/chrome --type=gp+
+2508657 mingmin+  20   0   32.4g 349212 117608 S   5.9   0.5  65:37.39 /opt/google/chrome/chrome --type=re+
+3140120 mingmin+  20   0   24.5g 674920 128800 S   5.9   1.0   2:23.39 /opt/google/chrome/chrome --type=re+
+top - 11:24:22 up 4 days, 38 min,  1 user,  load average: 0.43, 0.62, 0.60
+Tasks: 675 total,   2 running, 651 sleeping,  20 stopped,   2 zombie
+%Cpu0  :  4.8 us,  0.0 sy,  0.0 ni, 95.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu1  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu2  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu3  :  4.8 us,  0.0 sy,  0.0 ni, 95.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu4  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu5  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu6  :  4.8 us,  0.0 sy,  0.0 ni, 95.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu7  :  4.8 us,  0.0 sy,  0.0 ni, 95.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu8  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu9  :  4.5 us,  4.5 sy,  0.0 ni, 90.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu10 :  5.0 us,  0.0 sy,  0.0 ni, 95.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu11 :  4.5 us,  0.0 sy,  0.0 ni, 95.5 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu12 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu13 :  4.8 us, 23.8 sy,  0.0 ni, 71.4 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu14 :  4.5 us,  4.5 sy,  0.0 ni, 90.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu15 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :  63750.7 total,   2134.3 free,  17340.9 used,  44275.5 buff/cache
+MiB Swap:    976.0 total,    933.5 free,     42.5 used.  45137.9 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+3149065 mingmin+  20   0   29680   5212   3836 R  29.4   0.0   0:00.05 top -bcisSn1
+3140120 mingmin+  20   0   24.5g 705240 128328 S  11.8   1.1   2:25.57 /opt/google/chrome/chrome --type=re+
+   1765 root     -51   0       0      0      0 S   5.9   0.0  11:24.14 [irq/153-nvidia]
+   2518 root      20   0   24.3g 110172  70120 S   5.9   0.2  15:19.86 /usr/lib/xorg/Xorg vt2 -displayfd 3+
+   2649 mingmin+  20   0 4889276 609572 126884 S   5.9   0.9  23:22.75 /usr/bin/gnome-shell
+   3031 mingmin+  20   0 2141916 281628  45088 S   5.9   0.4 222:54.00 c:/Program Files/WXWork/WXWork.exe
+   3036 mingmin+  20   0    9772   6872   2028 S   5.9   0.0 146:44.24 /usr/lib/i386-linux-gnu/deepin-wine+
+   3308 mingmin+  20   0   17.3g   1.0g 240716 S   5.9   1.6  96:59.43 /opt/google/chrome/chrome --type=gp+
+top - 11:24:33 up 4 days, 38 min,  1 user,  load average: 0.97, 0.73, 0.64
+Tasks: 675 total,   1 running, 652 sleeping,  20 stopped,   2 zombie
+%Cpu0  :  5.9 us,  0.0 sy,  0.0 ni, 94.1 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu1  : 11.1 us,  0.0 sy,  0.0 ni, 88.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu2  :  5.9 us,  0.0 sy,  0.0 ni, 94.1 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu3  : 11.1 us, 16.7 sy,  0.0 ni, 72.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu4  :  5.9 us,  0.0 sy,  0.0 ni, 94.1 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu5  :  5.9 us,  0.0 sy,  0.0 ni, 94.1 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu6  : 17.6 us,  5.9 sy,  0.0 ni, 76.5 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu7  :  9.5 us,  9.5 sy,  0.0 ni, 81.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu8  :  5.6 us,  5.6 sy,  0.0 ni, 88.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu9  :  5.3 us,  5.3 sy,  0.0 ni, 89.5 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu10 :  5.9 us, 11.8 sy,  0.0 ni, 82.4 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu11 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu12 :  0.0 us,  5.9 sy,  0.0 ni, 94.1 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu13 :  5.6 us,  0.0 sy,  0.0 ni, 94.4 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu14 :  5.6 us,  0.0 sy,  0.0 ni, 94.4 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu15 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :  63750.7 total,   2170.2 free,  17307.4 used,  44273.1 buff/cache
+MiB Swap:    976.0 total,    933.5 free,     42.5 used.  45173.9 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+3140120 mingmin+  20   0   24.5g 667124 128996 S  43.8   1.0   2:28.77 /opt/google/chrome/chrome --type=re+
+   3265 mingmin+  20   0   16.8g 843528 201036 S  31.2   1.3  82:47.12 /opt/google/chrome/chrome --enable-+
+   1765 root     -51   0       0      0      0 S   6.2   0.0  11:24.35 [irq/153-nvidia]
+   2649 mingmin+  20   0 4889276 609572 126884 S   6.2   0.9  23:23.25 /usr/bin/gnome-shell
+   3309 mingmin+  20   0   16.4g 158396  88816 S   6.2   0.2  27:58.22 /opt/google/chrome/chrome --type=ut+
+ 141892 mingmin+  20   0   24.4g 106392  75140 S   6.2   0.2   0:06.50 /opt/google/chrome/chrome --type=re+
+ 141945 mingmin+  20   0   24.4g  95572  70828 S   6.2   0.1   0:03.49 /opt/google/chrome/chrome --type=re+
+ 141962 mingmin+  20   0   24.4g 120384  75812 S   6.2   0.2   0:05.91 /opt/google/chrome/chrome --type=re+
+ 141968 mingmin+  20   0   24.4g 110348  74008 S   6.2   0.2   0:06.28 /opt/google/chrome/chrome --type=re+
+ 142375 mingmin+  20   0   24.4g 101528  70168 S   6.2   0.2   0:04.61 /opt/google/chrome/chrome --type=re+
+ 142435 mingmin+  20   0   24.4g 130324  81328 S   6.2   0.2   0:09.69 /opt/google/chrome/chrome --type=re+
+2313211 mingmin+  20   0   28.4g 620896 100480 S   6.2   1.0  56:12.54 /opt/google/chrome/chrome --type=re+
+2471336 mingmin+  20   0   24.4g 178928  97664 S   6.2   0.3   0:16.97 /opt/google/chrome/chrome --type=re+
+3149152 mingmin+  20   0   29680   5216   3840 R   6.2   0.0   0:00.02 top -bcisSn1
+top - 11:24:43 up 4 days, 38 min,  1 user,  load average: 0.82, 0.71, 0.63
+Tasks: 675 total,   2 running, 651 sleeping,  20 stopped,   2 zombie
+%Cpu0  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu1  :  4.8 us,  0.0 sy,  0.0 ni, 95.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu2  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu3  :  4.8 us,  0.0 sy,  0.0 ni, 95.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu4  :  4.8 us, 14.3 sy,  0.0 ni, 81.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu5  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu6  :  4.8 us,  0.0 sy,  0.0 ni, 95.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu7  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu8  :  4.8 us,  0.0 sy,  0.0 ni, 95.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu9  :  4.8 us,  0.0 sy,  0.0 ni, 95.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu10 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu11 :  4.8 us,  0.0 sy,  0.0 ni, 95.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu12 :  0.0 us, 10.0 sy,  0.0 ni, 90.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu13 :  4.8 us,  0.0 sy,  0.0 ni, 95.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu14 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu15 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :  63750.7 total,   2127.7 free,  17347.6 used,  44275.3 buff/cache
+MiB Swap:    976.0 total,    933.5 free,     42.5 used.  45131.7 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+3149250 mingmin+  20   0   29680   5280   3912 R  31.2   0.0   0:00.06 top -bcisSn1
+   2649 mingmin+  20   0 4889276 609572 126884 R  12.5   0.9  23:23.76 /usr/bin/gnome-shell
+   3308 mingmin+  20   0   17.3g   1.0g 241000 S  12.5   1.6  97:01.08 /opt/google/chrome/chrome --type=gp+
+  12615 mingmin+  20   0 3890112 432736 189184 S   6.2   0.7  20:11.24 /usr/lib/firefox/firefox
+2508657 mingmin+  20   0   36.4g 350772 117608 S   6.2   0.5  65:38.87 /opt/google/chrome/chrome --type=re+
+3140120 mingmin+  20   0   24.5g 707360 129520 S   6.2   1.1   2:30.13 /opt/google/chrome/chrome --type=re+
+top - 11:24:53 up 4 days, 38 min,  1 user,  load average: 1.01, 0.75, 0.65
+Tasks: 675 total,   1 running, 652 sleeping,  20 stopped,   2 zombie
+%Cpu0  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu1  :  0.0 us,  0.0 sy,  0.0 ni, 95.0 id,  5.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu2  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu3  :  0.0 us,  4.8 sy,  0.0 ni, 95.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu4  :  4.8 us,  0.0 sy,  0.0 ni, 95.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu5  :  4.8 us,  0.0 sy,  0.0 ni, 95.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu6  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu7  :  0.0 us,  0.0 sy,  0.0 ni, 95.2 id,  4.8 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu8  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu9  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu10 : 14.3 us, 14.3 sy,  0.0 ni, 71.4 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu11 :  0.0 us,  4.8 sy,  0.0 ni, 95.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu12 :  0.0 us,  4.8 sy,  0.0 ni, 95.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu13 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu14 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu15 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :  63750.7 total,   2138.5 free,  17336.9 used,  44275.3 buff/cache
+MiB Swap:    976.0 total,    933.5 free,     42.5 used.  45142.5 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+3149342 mingmin+  20   0   29680   5364   3988 R  31.2   0.0   0:00.05 top -bcisSn1
+   1765 root     -51   0       0      0      0 S   6.2   0.0  11:24.80 [irq/153-nvidia]
+   2421 mingmin+   9 -11 4113700  21308  16124 S   6.2   0.0   1:00.89 /usr/bin/pulseaudio --daemonize=no +
+   2518 root      20   0   24.3g 110172  70120 S   6.2   0.2  15:20.25 /usr/lib/xorg/Xorg vt2 -displayfd 3+
+   3031 mingmin+  20   0 2141916 281628  45088 S   6.2   0.4 222:55.73 c:/Program Files/WXWork/WXWork.exe
+   3265 mingmin+  20   0   16.8g 843868 201112 S   6.2   1.3  82:48.08 /opt/google/chrome/chrome --enable-+
+   3308 mingmin+  20   0   17.3g   1.0g 241000 S   6.2   1.6  97:01.90 /opt/google/chrome/chrome --type=gp+
+2508657 mingmin+  20   0   36.4g 350772 117608 S   6.2   0.5  65:39.38 /opt/google/chrome/chrome --type=re+
+3140120 mingmin+  20   0   24.5g 695792 129524 S   6.2   1.1   2:30.66 /opt/google/chrome/chrome --type=re+
+top - 11:25:03 up 4 days, 38 min,  1 user,  load average: 0.93, 0.74, 0.64
+Tasks: 675 total,   1 running, 652 sleeping,  20 stopped,   2 zombie
+%Cpu0  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu1  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu2  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu3  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu4  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu5  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu6  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu7  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu8  :  0.0 us,  0.0 sy,  0.0 ni, 95.2 id,  4.8 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu9  :  0.0 us,  4.5 sy,  0.0 ni, 95.5 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu10 :  4.8 us,  9.5 sy,  0.0 ni, 85.7 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu11 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu12 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu13 :  4.8 us, 23.8 sy,  0.0 ni, 71.4 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu14 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu15 :  4.5 us,  4.5 sy,  0.0 ni, 90.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :  63750.7 total,   2117.6 free,  17356.9 used,  44276.1 buff/cache
+MiB Swap:    976.0 total,    933.5 free,     42.5 used.  45121.9 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+3149441 mingmin+  20   0   29680   5420   4044 R  25.0   0.0   0:00.05 top -bcisSn1
+   1765 root     -51   0       0      0      0 S   6.2   0.0  11:25.02 [irq/153-nvidia]
+   2649 mingmin+  20   0 4889276 609572 126884 S   6.2   0.9  23:24.80 /usr/bin/gnome-shell
+   3308 mingmin+  20   0   17.3g   1.0g 241248 S   6.2   1.6  97:02.69 /opt/google/chrome/chrome --type=gp+
+   3873 mingmin+  20   0   32.6g 193640  81916 S   6.2   0.3  25:19.43 /usr/lib/slack/slack --type=gpu-pro+
+2508657 mingmin+  20   0   32.4g 349268 117608 S   6.2   0.5  65:39.85 /opt/google/chrome/chrome --type=re+
+top - 11:25:13 up 4 days, 39 min,  1 user,  load average: 0.79, 0.72, 0.64
+Tasks: 675 total,   1 running, 652 sleeping,  20 stopped,   2 zombie
+%Cpu0  :  4.5 us,  0.0 sy,  0.0 ni, 95.5 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu1  :  4.3 us,  4.3 sy,  0.0 ni, 91.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu2  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu3  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu4  :  4.8 us,  0.0 sy,  0.0 ni, 95.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu5  :  4.8 us, 23.8 sy,  0.0 ni, 71.4 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu6  :  9.1 us,  0.0 sy,  0.0 ni, 90.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu7  :  4.8 us,  0.0 sy,  0.0 ni, 95.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu8  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu9  :  0.0 us,  4.5 sy,  0.0 ni, 95.5 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu10 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu11 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu12 :  5.0 us,  0.0 sy,  0.0 ni, 95.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu13 : 13.6 us,  0.0 sy,  0.0 ni, 86.4 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu14 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu15 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :  63750.7 total,   2106.3 free,  17370.8 used,  44273.5 buff/cache
+MiB Swap:    976.0 total,    933.5 free,     42.5 used.  45110.7 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+3140120 mingmin+  20   0   24.5g 715768 128468 S  25.0   1.1   2:33.47 /opt/google/chrome/chrome --type=re+
+3149541 mingmin+  20   0   29680   5220   3852 R  25.0   0.0   0:00.05 top -bcisSn1
+   1333 message+  20   0  627220 553352   4464 S   6.2   0.8  11:26.62 /usr/bin/dbus-daemon --system --add+
+   3031 mingmin+  20   0 2141916 281628  45088 S   6.2   0.4 222:56.54 c:/Program Files/WXWork/WXWork.exe
+   3265 mingmin+  20   0   16.8g 844152 201120 S   6.2   1.3  82:49.20 /opt/google/chrome/chrome --enable-+
+   3308 mingmin+  20   0   17.3g   1.0g 241356 S   6.2   1.6  97:03.54 /opt/google/chrome/chrome --type=gp+
+   3309 mingmin+  20   0   16.4g 158356  88812 S   6.2   0.2  27:59.48 /opt/google/chrome/chrome --type=ut+
+   3433 mingmin+  20   0   24.4g 100596  75840 S   6.2   0.2   1:30.79 /opt/google/chrome/chrome --type=re+
+  12852 mingmin+  20   0 2989976 318272 154524 S   6.2   0.5  26:17.39 /usr/lib/firefox/firefox -contentpr+
+2459900 mingmin+  20   0   24.4g 207240 127164 S   6.2   0.3   0:16.18 /opt/google/chrome/chrome --type=re+
+2508657 mingmin+  20   0   32.4g 349268 117608 S   6.2   0.5  65:40.36 /opt/google/chrome/chrome --type=re+
+top - 11:25:24 up 4 days, 39 min,  1 user,  load average: 0.67, 0.69, 0.63
+Tasks: 675 total,   1 running, 652 sleeping,  20 stopped,   2 zombie
+%Cpu0  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu1  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu2  :  4.5 us,  4.5 sy,  0.0 ni, 90.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu3  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu4  :  5.0 us,  0.0 sy,  0.0 ni, 95.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu5  :  5.0 us,  0.0 sy,  0.0 ni, 95.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu6  :  0.0 us,  4.8 sy,  0.0 ni, 95.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu7  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu8  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu9  :  4.5 us,  4.5 sy,  0.0 ni, 90.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu10 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu11 : 10.0 us, 20.0 sy,  0.0 ni, 70.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu12 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu13 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu14 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu15 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :  63750.7 total,   2100.2 free,  17373.7 used,  44276.8 buff/cache
+MiB Swap:    976.0 total,    933.5 free,     42.5 used.  45104.8 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  12615 mingmin+  20   0 3890112 432836 189184 S  10.0   0.7  20:11.68 /usr/lib/firefox/firefox
+   1765 root     -51   0       0      0      0 S   5.0   0.0  11:25.44 [irq/153-nvidia]
+   2649 mingmin+  20   0 4889276 609572 126884 S   5.0   0.9  23:25.79 /usr/bin/gnome-shell
+   3031 mingmin+  20   0 2141916 281628  45088 S   5.0   0.4 222:57.08 c:/Program Files/WXWork/WXWork.exe
+   3036 mingmin+  20   0    9772   6872   2028 S   5.0   0.0 146:46.04 /usr/lib/i386-linux-gnu/deepin-wine+
+   3265 mingmin+  20   0   16.8g 844732 201232 S   5.0   1.3  82:49.65 /opt/google/chrome/chrome --enable-+
+   3308 mingmin+  20   0   17.3g   1.0g 241620 S   5.0   1.6  97:04.44 /opt/google/chrome/chrome --type=gp+
+   3309 mingmin+  20   0   16.4g 158152  88812 S   5.0   0.2  27:59.81 /opt/google/chrome/chrome --type=ut+
+2508657 mingmin+  20   0   36.4g 350772 117608 S   5.0   0.5  65:40.89 /opt/google/chrome/chrome --type=re+
+3140120 mingmin+  20   0   24.5g 716992 128468 S   5.0   1.1   2:34.21 /opt/google/chrome/chrome --type=re+
+3149633 mingmin+  20   0   29680   5144   3772 R   5.0   0.0   0:00.05 top -bcisSn1
+top - 11:25:34 up 4 days, 39 min,  1 user,  load average: 0.72, 0.70, 0.63
+Tasks: 675 total,   1 running, 652 sleeping,  20 stopped,   2 zombie
+%Cpu0  :  4.5 us,  0.0 sy,  0.0 ni, 95.5 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu1  :  8.7 us, 26.1 sy,  0.0 ni, 65.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu2  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu3  : 18.2 us,  0.0 sy,  0.0 ni, 81.8 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu4  :  0.0 us,  4.8 sy,  0.0 ni, 95.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu5  :  0.0 us,  4.5 sy,  0.0 ni, 95.5 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu6  :  4.5 us,  0.0 sy,  0.0 ni, 95.5 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu7  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu8  :  0.0 us,  4.5 sy,  0.0 ni, 95.5 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu9  :  0.0 us,  4.3 sy,  0.0 ni, 95.7 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu10 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu11 :  4.5 us,  0.0 sy,  0.0 ni, 95.5 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu12 :  4.3 us,  4.3 sy,  0.0 ni, 91.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu13 :  4.5 us,  0.0 sy,  0.0 ni, 95.5 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu14 :  4.5 us,  0.0 sy,  0.0 ni, 95.5 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu15 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :  63750.7 total,   2077.2 free,  17395.0 used,  44278.5 buff/cache
+MiB Swap:    976.0 total,    933.5 free,     42.5 used.  45082.0 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+3140120 mingmin+  20   0   24.5g 741468 127904 S  26.3   1.1   2:35.60 /opt/google/chrome/chrome --type=re+
+   3265 mingmin+  20   0   16.8g 845184 201368 S  10.5   1.3  82:50.53 /opt/google/chrome/chrome --enable-+
+   3308 mingmin+  20   0   17.3g   1.0g 240976 S  10.5   1.6  97:05.32 /opt/google/chrome/chrome --type=gp+
+3149732 mingmin+  20   0   29680   5344   3972 R  10.5   0.0   0:00.06 top -bcisSn1
+   1333 message+  20   0  627416 553576   4464 S   5.3   0.8  11:27.02 /usr/bin/dbus-daemon --system --add+
+   1765 root     -51   0       0      0      0 S   5.3   0.0  11:25.64 [irq/153-nvidia]
+   2649 mingmin+  20   0 4889276 609572 126884 S   5.3   0.9  23:26.27 /usr/bin/gnome-shell
+top - 11:25:44 up 4 days, 39 min,  1 user,  load average: 0.69, 0.70, 0.63
+Tasks: 675 total,   1 running, 652 sleeping,  20 stopped,   2 zombie
+%Cpu0  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu1  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu2  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu3  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu4  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu5  :  4.0 us,  0.0 sy,  0.0 ni, 96.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu6  :  0.0 us,  4.0 sy,  0.0 ni, 96.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu7  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu8  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu9  : 12.5 us,  0.0 sy,  0.0 ni, 87.5 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu10 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu11 : 12.0 us,  4.0 sy,  0.0 ni, 84.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu12 :  4.3 us,  0.0 sy,  0.0 ni, 95.7 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu13 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu14 : 13.0 us, 21.7 sy,  0.0 ni, 65.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu15 :  8.3 us,  0.0 sy,  0.0 ni, 91.7 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :  63750.7 total,   2123.8 free,  17353.7 used,  44273.2 buff/cache
+MiB Swap:    976.0 total,    933.5 free,     42.5 used.  45128.8 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+3149825 mingmin+  20   0   29680   5152   3776 R  25.0   0.0   0:00.09 top -bcisSn1
+3086438 mingmin+  20   0  157852  37256  21208 S  20.0   0.1   4:11.26 /usr/bin/vncviewer -child pacifica-+
+3140120 mingmin+  20   0   24.5g 701560 127952 S  15.0   1.1   2:40.93 /opt/google/chrome/chrome --type=re+
+   1765 root     -51   0       0      0      0 S   5.0   0.0  11:25.87 [irq/153-nvidia]
+   2649 mingmin+  20   0 4889276 609572 126884 S   5.0   0.9  23:26.81 /usr/bin/gnome-shell
+   3031 mingmin+  20   0 2141916 281628  45088 S   5.0   0.4 222:57.94 c:/Program Files/WXWork/WXWork.exe
+   3265 mingmin+  20   0   16.8g 844376 200888 S   5.0   1.3  82:51.00 /opt/google/chrome/chrome --enable-+
+   3308 mingmin+  20   0   17.3g   1.0g 240888 S   5.0   1.6  97:06.15 /opt/google/chrome/chrome --type=gp+
+2508657 mingmin+  20   0   36.4g 350832 117608 S   5.0   0.5  65:41.88 /opt/google/chrome/chrome --type=re+
+3061449 root      20   0       0      0      0 I   5.0   0.0   0:00.51 [kworker/13:1-events]
+top - 11:25:54 up 4 days, 39 min,  1 user,  load average: 0.89, 0.74, 0.65
+Tasks: 675 total,   1 running, 652 sleeping,  20 stopped,   2 zombie
+%Cpu0  :  5.0 us, 20.0 sy,  0.0 ni, 75.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu1  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu2  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu3  :  5.0 us,  0.0 sy,  0.0 ni, 95.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu4  :  4.8 us,  0.0 sy,  0.0 ni, 95.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu5  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu6  :  4.5 us,  0.0 sy,  0.0 ni, 95.5 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu7  :  4.5 us,  4.5 sy,  0.0 ni, 90.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu8  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu9  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu10 :  5.0 us,  0.0 sy,  0.0 ni, 95.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu11 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu12 :  0.0 us,  4.8 sy,  0.0 ni, 95.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu13 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu14 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu15 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :  63750.7 total,   2088.9 free,  17383.1 used,  44278.7 buff/cache
+MiB Swap:    976.0 total,    933.5 free,     42.5 used.  45094.1 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+3149919 mingmin+  20   0   29680   5152   3776 R  29.4   0.0   0:00.06 top -bcisSn1
+3140120 mingmin+  20   0   24.5g 738704 129132 S  23.5   1.1   2:42.92 /opt/google/chrome/chrome --type=re+
+   2518 root      20   0   24.3g 110172  70120 S  11.8   0.2  15:21.26 /usr/lib/xorg/Xorg vt2 -displayfd 3+
+   2649 mingmin+  20   0 4889276 609572 126884 S   5.9   0.9  23:27.41 /usr/bin/gnome-shell
+   3031 mingmin+  20   0 2141916 281628  45088 S   5.9   0.4 222:58.38 c:/Program Files/WXWork/WXWork.exe
+   3308 mingmin+  20   0   17.3g   1.0g 241128 S   5.9   1.6  97:07.02 /opt/google/chrome/chrome --type=gp+
+top - 11:26:04 up 4 days, 39 min,  1 user,  load average: 0.75, 0.72, 0.64
+Tasks: 675 total,   1 running, 652 sleeping,  20 stopped,   2 zombie
+%Cpu0  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu1  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu2  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu3  :  4.5 us,  0.0 sy,  0.0 ni, 95.5 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu4  :  0.0 us,  4.8 sy,  0.0 ni, 95.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu5  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu6  :  4.8 us,  0.0 sy,  0.0 ni, 95.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu7  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu8  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu9  :  0.0 us,  4.5 sy,  0.0 ni, 95.5 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu10 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu11 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu12 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu13 :  0.0 us,  4.8 sy,  0.0 ni, 95.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu14 :  9.5 us, 19.0 sy,  0.0 ni, 71.4 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu15 :  0.0 us,  4.5 sy,  0.0 ni, 95.5 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :  63750.7 total,   2079.0 free,  17395.4 used,  44276.2 buff/cache
+MiB Swap:    976.0 total,    933.5 free,     42.5 used.  45084.8 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+3150021 mingmin+  20   0   29680   5284   3908 R  29.4   0.0   0:00.05 top -bcisSn1
+   2649 mingmin+  20   0 4889276 609572 126884 S   5.9   0.9  23:27.97 /usr/bin/gnome-shell
+   3036 mingmin+  20   0    9772   6872   2028 S   5.9   0.0 146:47.17 /usr/lib/i386-linux-gnu/deepin-wine+
+   3308 mingmin+  20   0   17.3g   1.0g 241240 S   5.9   1.6  97:07.93 /opt/google/chrome/chrome --type=gp+
+top - 11:26:15 up 4 days, 40 min,  1 user,  load average: 0.64, 0.69, 0.63
+Tasks: 674 total,   2 running, 650 sleeping,  20 stopped,   2 zombie
+%Cpu0  : 10.0 us,  0.0 sy,  0.0 ni, 90.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu1  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu2  :  4.8 us,  0.0 sy,  0.0 ni, 95.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu3  :  9.1 us,  0.0 sy,  0.0 ni, 90.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu4  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu5  :  4.8 us,  0.0 sy,  0.0 ni, 95.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu6  :  4.8 us, 23.8 sy,  0.0 ni, 71.4 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu7  :  4.8 us,  0.0 sy,  0.0 ni, 95.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu8  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu9  :  0.0 us,  5.0 sy,  0.0 ni, 95.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu10 :  0.0 us,  4.8 sy,  0.0 ni, 95.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu11 :  0.0 us,  4.8 sy,  0.0 ni, 95.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu12 :  0.0 us,  4.8 sy,  0.0 ni, 95.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu13 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu14 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu15 :  4.8 us,  0.0 sy,  0.0 ni, 95.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :  63750.7 total,   2071.6 free,  17405.0 used,  44274.0 buff/cache
+MiB Swap:    976.0 total,    933.5 free,     42.5 used.  45077.6 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+3150115 mingmin+  20   0   29680   5152   3776 R  25.0   0.0   0:00.05 top -bcisSn1
+   2649 mingmin+  20   0 4889276 609632 126880 S  12.5   0.9  23:28.90 /usr/bin/gnome-shell
+   3308 mingmin+  20   0   17.3g   1.0g 241488 S  12.5   1.6  97:08.78 /opt/google/chrome/chrome --type=gp+
+3140120 mingmin+  20   0   24.5g 754008 129084 S  12.5   1.2   2:46.06 /opt/google/chrome/chrome --type=re+
+   1333 message+  20   0  627996 554212   4464 R   6.2   0.8  11:27.91 /usr/bin/dbus-daemon --system --add+
+   3031 mingmin+  20   0 2141916 281628  45088 S   6.2   0.4 222:59.26 c:/Program Files/WXWork/WXWork.exe
+   3265 mingmin+  20   0   16.8g 849348 203456 S   6.2   1.3  82:52.88 /opt/google/chrome/chrome --enable-+
+  24293 root      20   0 2121280  13300  11580 S   6.2   0.0  10:08.85 /opt/teamviewer/tv_bin/teamviewerd +
+2508657 mingmin+  20   0   32.4g 349328 117608 S   6.2   0.5  65:43.43 /opt/google/chrome/chrome --type=re+
+top - 11:30:10 up 4 days, 43 min,  1 user,  load average: 0.28, 0.49, 0.56
+Tasks: 673 total,   1 running, 650 sleeping,  20 stopped,   2 zombie
+%Cpu0  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu1  :  0.0 us,  4.8 sy,  0.0 ni, 95.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu2  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu3  :  4.5 us,  4.5 sy,  0.0 ni, 90.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu4  :  4.8 us,  0.0 sy,  0.0 ni, 95.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu5  :  4.8 us, 23.8 sy,  0.0 ni, 71.4 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu6  :  4.8 us,  0.0 sy,  0.0 ni, 95.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu7  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu8  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu9  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu10 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu11 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu12 :  4.8 us,  0.0 sy,  0.0 ni, 95.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu13 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu14 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu15 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :  63750.7 total,   2023.6 free,  17453.4 used,  44273.7 buff/cache
+MiB Swap:    976.0 total,    933.5 free,     42.5 used.  45032.0 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+3152364 mingmin+  20   0   29680   5284   3912 R  23.5   0.0   0:00.05 top -bcisSn1
+   3308 mingmin+  20   0   17.3g   1.0g 240808 S  11.8   1.6  97:29.20 /opt/google/chrome/chrome --type=gp+
+   3031 mingmin+  20   0 2141916 281628  45088 S   5.9   0.4 223:10.26 c:/Program Files/WXWork/WXWork.exe
+   3036 mingmin+  20   0    9772   6872   2028 S   5.9   0.0 146:54.43 /usr/lib/i386-linux-gnu/deepin-wine+
+  10611 mingmin+  20   0  887936  89292  53580 S   5.9   0.1   0:49.86 /usr/bin/python3 /usr/bin/x-termina+
+2508657 mingmin+  20   0   32.4g 349796 117608 S   5.9   0.5  65:55.44 /opt/google/chrome/chrome --type=re+
+3140120 mingmin+  20   0   24.5g 770972 128212 S   5.9   1.2   3:07.82 /opt/google/chrome/chrome --type=re+
+top - 15:44:49 up 4 days,  4:58,  1 user,  load average: 0.30, 0.54, 0.60
+Tasks: 690 total,   1 running, 667 sleeping,  20 stopped,   2 zombie
+%Cpu0  :  4.2 us,  4.2 sy,  0.0 ni, 91.7 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu1  :  8.7 us, 26.1 sy,  0.0 ni, 65.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu2  :  4.2 us,  4.2 sy,  0.0 ni, 87.5 id,  4.2 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu3  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu4  :  4.0 us,  4.0 sy,  0.0 ni, 92.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu5  :  4.0 us,  4.0 sy,  0.0 ni, 92.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu6  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu7  :  0.0 us,  4.2 sy,  0.0 ni, 95.8 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu8  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu9  :  4.3 us,  0.0 sy,  0.0 ni, 95.7 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu10 :  4.2 us,  0.0 sy,  0.0 ni, 95.8 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu11 :  4.2 us,  8.3 sy,  0.0 ni, 87.5 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu12 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu13 :  0.0 us,  4.2 sy,  0.0 ni, 95.8 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu14 :  4.3 us,  0.0 sy,  0.0 ni, 95.7 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu15 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :  63750.7 total,    795.7 free,  18072.6 used,  44882.3 buff/cache
+MiB Swap:    976.0 total,    726.0 free,    250.0 used.  44106.1 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+3400832 mingmin+  20   0   29680   5280   3912 R  27.8   0.0   0:00.08 top -bcisSn1
+   3031 mingmin+  20   0 2141708 276896  40960 S   5.6   0.4 233:10.89 c:/Program Files/WXWork/WXWork.exe
+2508657 mingmin+  20   0   36.5g 354252 117908 S   5.6   0.5  77:54.92 /opt/google/chrome/chrome --type=re+
+top - 15:45:00 up 4 days,  4:58,  1 user,  load average: 0.25, 0.52, 0.59
+Tasks: 690 total,   1 running, 667 sleeping,  20 stopped,   2 zombie
+%Cpu0  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu1  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu2  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu3  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu4  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu5  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu6  :  4.5 us,  4.5 sy,  0.0 ni, 90.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu7  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu8  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu9  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu10 : 13.6 us, 18.2 sy,  0.0 ni, 68.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu11 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu12 :  0.0 us,  4.8 sy,  0.0 ni, 95.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu13 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu14 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu15 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :  63750.7 total,    790.6 free,  18078.1 used,  44881.9 buff/cache
+MiB Swap:    976.0 total,    726.0 free,    250.0 used.  44101.1 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+3401041 mingmin+  20   0   29680   5364   3988 R  31.2   0.0   0:00.05 top -bcisSn1
+   1765 root     -51   0       0      0      0 S   6.2   0.0  12:48.54 [irq/153-nvidia]
+   3031 mingmin+  20   0 2141708 276896  40960 S   6.2   0.4 233:11.27 c:/Program Files/WXWork/WXWork.exe
+   3265 mingmin+  20   0   17.0g 882864 206596 S   6.2   1.4  86:28.29 /opt/google/chrome/chrome --enable-+
+   3309 mingmin+  20   0   16.3g 159064  88820 S   6.2   0.2  29:38.01 /opt/google/chrome/chrome --type=ut+
+  12615 mingmin+  20   0 3886448 369256 156148 S   6.2   0.6  22:31.72 /usr/lib/firefox/firefox
+2508657 mingmin+  20   0   32.5g 352896 117908 S   6.2   0.5  77:55.40 /opt/google/chrome/chrome --type=re+
+top - 15:45:10 up 4 days,  4:58,  1 user,  load average: 0.21, 0.50, 0.58
+Tasks: 690 total,   2 running, 666 sleeping,  20 stopped,   2 zombie
+%Cpu0  :  0.0 us,  0.0 sy,  0.0 ni, 95.7 id,  4.3 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu1  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu2  :  0.0 us,  4.2 sy,  0.0 ni, 95.8 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu3  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu4  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu5  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu6  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu7  :  4.2 us,  0.0 sy,  0.0 ni, 95.8 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu8  :  4.2 us,  0.0 sy,  0.0 ni, 95.8 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu9  :  0.0 us,  8.7 sy,  0.0 ni, 91.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu10 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu11 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu12 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu13 :  4.0 us,  0.0 sy,  0.0 ni, 92.0 id,  0.0 wa,  0.0 hi,  4.0 si,  0.0 st
+%Cpu14 :  4.2 us,  0.0 sy,  0.0 ni, 95.8 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu15 : 16.0 us, 20.0 sy,  0.0 ni, 64.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :  63750.7 total,    785.9 free,  18080.3 used,  44884.5 buff/cache
+MiB Swap:    976.0 total,    726.0 free,    250.0 used.  44096.4 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+3401261 mingmin+  20   0   29680   5192   3816 R  26.3   0.0   0:00.09 top -bcisSn1
+   1918 gdm       20   0 4076312 195072 114784 S   5.3   0.3   1:52.08 /usr/bin/gnome-shell
+   3308 mingmin+  20   0   17.4g   1.0g 248712 S   5.3   1.7 104:46.81 /opt/google/chrome/chrome --type=gp+
+   3309 mingmin+  20   0   16.3g 159088  88824 S   5.3   0.2  29:38.10 /opt/google/chrome/chrome --type=ut+
+2508657 mingmin+  20   0   32.5g 352896 117908 S   5.3   0.5  77:55.85 /opt/google/chrome/chrome --type=re+
+3374427 root      20   0       0      0      0 I   5.3   0.0   0:00.28 [kworker/u32:2-efi_rts_wq]
+top - 15:45:20 up 4 days,  4:59,  1 user,  load average: 0.18, 0.49, 0.58
+Tasks: 690 total,   1 running, 667 sleeping,  20 stopped,   2 zombie
+%Cpu0  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu1  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu2  : 10.5 us,  0.0 sy,  0.0 ni, 89.5 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu3  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu4  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu5  :  5.3 us,  0.0 sy,  0.0 ni, 94.7 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu6  :  5.3 us,  0.0 sy,  0.0 ni, 94.7 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu7  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu8  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu9  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu10 :  0.0 us,  5.6 sy,  0.0 ni, 94.4 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu11 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu12 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu13 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu14 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu15 :  0.0 us, 17.6 sy,  0.0 ni, 82.4 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :  63750.7 total,    770.1 free,  18096.0 used,  44884.6 buff/cache
+MiB Swap:    976.0 total,    726.0 free,    250.0 used.  44080.6 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+3366772 mingmin+  20   0   38.6g 254948 119040 S  11.8   0.4   1:54.80 /usr/share/code/code --type=rendere+
+3401510 mingmin+  20   0   29680   5280   3908 R  11.8   0.0   0:00.03 top -bcisSn1
+   2649 mingmin+  20   0 4938456 586868 128868 S   5.9   0.9  27:51.91 /usr/bin/gnome-shell
+  19883 mingmin+  20   0   16.5g 293844  96796 S   5.9   0.5   8:07.96 /usr/share/code/code --type=gpu-pro+
+top - 15:45:30 up 4 days,  4:59,  1 user,  load average: 0.23, 0.49, 0.58
+Tasks: 690 total,   2 running, 666 sleeping,  20 stopped,   2 zombie
+%Cpu0  :  0.0 us,  4.8 sy,  0.0 ni, 95.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu1  :  0.0 us,  4.8 sy,  0.0 ni, 95.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu2  :  5.0 us,  0.0 sy,  0.0 ni, 95.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu3  :  5.0 us,  0.0 sy,  0.0 ni, 95.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu4  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu5  : 10.0 us,  5.0 sy,  0.0 ni, 85.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu6  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu7  :  0.0 us,  0.0 sy,  0.0 ni, 94.7 id,  5.3 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu8  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu9  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu10 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu11 : 15.0 us,  0.0 sy,  0.0 ni, 85.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu12 :  5.0 us, 20.0 sy,  0.0 ni, 75.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu13 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu14 :  4.8 us,  0.0 sy,  0.0 ni, 95.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu15 :  4.8 us,  4.8 sy,  0.0 ni, 90.5 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :  63750.7 total,    781.6 free,  18106.9 used,  44862.2 buff/cache
+MiB Swap:    976.0 total,    726.0 free,    250.0 used.  44092.1 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+3366772 mingmin+  20   0   38.6g 258612 119108 S  31.2   0.4   1:56.41 /usr/share/code/code --type=rendere+
+3401744 mingmin+  20   0   29680   5352   3980 R  25.0   0.0   0:00.05 top -bcisSn1
+  19848 mingmin+  20   0   20.9g 188668 131024 R  12.5   0.3   3:09.72 /usr/share/code/code --unity-launch+
+   1765 root     -51   0       0      0      0 S   6.2   0.0  12:48.80 [irq/153-nvidia]
+   3031 mingmin+  20   0 2141708 276896  40960 S   6.2   0.4 233:12.21 c:/Program Files/WXWork/WXWork.exe
+   3265 mingmin+  20   0   17.0g 882628 206404 S   6.2   1.4  86:28.62 /opt/google/chrome/chrome --enable-+
+  19883 mingmin+  20   0   16.5g 299096  99276 S   6.2   0.5   8:08.56 /usr/share/code/code --type=gpu-pro+
+2508657 mingmin+  20   0   36.5g 354372 117908 S   6.2   0.5  77:56.70 /opt/google/chrome/chrome --type=re+
+top - 15:45:40 up 4 days,  4:59,  1 user,  load average: 0.26, 0.49, 0.58
+Tasks: 690 total,   1 running, 667 sleeping,  20 stopped,   2 zombie
+%Cpu0  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu1  :  0.0 us,  5.6 sy,  0.0 ni, 94.4 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu2  :  5.9 us,  5.9 sy,  0.0 ni, 88.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu3  : 10.5 us,  0.0 sy,  0.0 ni, 89.5 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu4  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu5  :  5.6 us,  0.0 sy,  0.0 ni, 94.4 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu6  :  5.9 us,  0.0 sy,  0.0 ni, 94.1 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu7  :  5.9 us,  0.0 sy,  0.0 ni, 94.1 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu8  :  5.9 us,  0.0 sy,  0.0 ni, 94.1 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu9  :  5.9 us,  0.0 sy,  0.0 ni, 94.1 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu10 :  0.0 us,  5.6 sy,  0.0 ni, 94.4 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu11 :  5.6 us,  0.0 sy,  0.0 ni, 94.4 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu12 :  5.6 us, 11.1 sy,  0.0 ni, 83.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu13 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu14 :  5.6 us,  0.0 sy,  0.0 ni, 94.4 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu15 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :  63750.7 total,    805.9 free,  18095.0 used,  44849.8 buff/cache
+MiB Swap:    976.0 total,    726.0 free,    250.0 used.  44116.5 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   3265 mingmin+  20   0   17.0g 884012 207296 S  18.8   1.4  86:28.79 /opt/google/chrome/chrome --enable-+
+   2649 mingmin+  20   0 4938456 586824 128868 S  12.5   0.9  27:52.42 /usr/bin/gnome-shell
+      1 root      20   0  171456  13568   8316 S   6.2   0.0   2:00.24 /sbin/init text
+   1333 message+  20   0  689692 617696   4444 S   6.2   0.9  13:43.97 /usr/bin/dbus-daemon --system --add+
+   2518 root      20   0   24.3g 112752  66260 S   6.2   0.2  17:56.17 /usr/lib/xorg/Xorg vt2 -displayfd 3+
+   3308 mingmin+  20   0   17.4g   1.0g 249484 S   6.2   1.7 104:47.47 /opt/google/chrome/chrome --type=gp+
+  19883 mingmin+  20   0   16.5g 294080  96736 S   6.2   0.5   8:08.94 /usr/share/code/code --type=gpu-pro+
+2468731 mingmin+  20   0   24.4g 273724 114240 S   6.2   0.4   1:00.53 /opt/google/chrome/chrome --type=re+
+3401991 mingmin+  20   0   29680   5324   3952 R   6.2   0.0   0:00.02 top -bcisSn1
+top - 15:45:51 up 4 days,  4:59,  1 user,  load average: 0.70, 0.57, 0.60
+Tasks: 690 total,   3 running, 665 sleeping,  20 stopped,   2 zombie
+%Cpu0  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu1  : 10.0 us, 15.0 sy,  0.0 ni, 75.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu2  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu3  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu4  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu5  :  5.0 us,  0.0 sy,  0.0 ni, 95.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu6  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu7  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu8  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu9  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu10 :  4.8 us,  0.0 sy,  0.0 ni, 95.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu11 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu12 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu13 :  4.8 us,  9.5 sy,  0.0 ni, 85.7 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu14 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu15 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :  63750.7 total,    802.8 free,  18097.2 used,  44850.7 buff/cache
+MiB Swap:    976.0 total,    726.0 free,    250.0 used.  44115.6 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+3402228 mingmin+  20   0   29680   5420   4044 R  31.2   0.0   0:00.05 top -bcisSn1
+3219359 root      20   0  123716  17532  15004 S  12.5   0.0  15:36.12 /usr/bin/xremote --service
+   3265 mingmin+  20   0   17.0g 882884 206680 R   6.2   1.4  86:29.23 /opt/google/chrome/chrome --enable-+
+2450063 mingmin+  20   0   28.4g 143200  99180 S   6.2   0.2   0:13.53 /opt/google/chrome/chrome --type=re+
+3096300 mingmin+  20   0   24.4g 179740 119896 R   6.2   0.3   0:27.04 /opt/google/chrome/chrome --type=re+
+top - 15:46:01 up 4 days,  4:59,  1 user,  load average: 0.83, 0.60, 0.61
+Tasks: 691 total,   1 running, 668 sleeping,  20 stopped,   2 zombie
+%Cpu0  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu1  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu2  :  9.5 us, 19.0 sy,  0.0 ni, 71.4 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu3  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu4  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu5  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu6  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu7  :  4.5 us,  4.5 sy,  0.0 ni, 90.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu8  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu9  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu10 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu11 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu12 :  4.8 us,  0.0 sy,  0.0 ni, 95.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu13 :  4.5 us,  0.0 sy,  0.0 ni, 95.5 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu14 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu15 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :  63750.7 total,    616.5 free,  18222.4 used,  44911.8 buff/cache
+MiB Swap:    976.0 total,    726.0 free,    250.0 used.  43931.0 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+3402537 mingmin+  20   0   29680   5360   3984 R  25.0   0.0   0:00.05 top -bcisSn1
+   3031 mingmin+  20   0 2141708 276896  40960 S   6.2   0.4 233:13.01 c:/Program Files/WXWork/WXWork.exe
+  12615 mingmin+  20   0 3886448 369648 156148 S   6.2   0.6  22:32.12 /usr/lib/firefox/firefox
+2508657 mingmin+  20   0   32.5g 353016 117908 S   6.2   0.5  77:57.83 /opt/google/chrome/chrome --type=re+
+3392735 mingmin+  20   0   24.6g 215168 138596 S   6.2   0.3   0:01.37 /opt/google/chrome/chrome --type=re+
+top - 15:46:11 up 4 days,  4:59,  1 user,  load average: 0.70, 0.58, 0.61
+Tasks: 691 total,   3 running, 666 sleeping,  20 stopped,   2 zombie
+%Cpu0  :  0.0 us,  4.8 sy,  0.0 ni, 95.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu1  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu2  :  4.8 us,  0.0 sy,  0.0 ni, 95.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu3  :  0.0 us,  9.5 sy,  0.0 ni, 90.5 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu4  :  4.8 us,  0.0 sy,  0.0 ni, 95.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu5  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu6  :  4.5 us,  0.0 sy,  0.0 ni, 95.5 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu7  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu8  :  0.0 us,  4.5 sy,  0.0 ni, 95.5 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu9  :  0.0 us,  4.5 sy,  0.0 ni, 95.5 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu10 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu11 :  5.0 us,  0.0 sy,  0.0 ni, 95.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu12 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu13 :  4.8 us, 23.8 sy,  0.0 ni, 71.4 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu14 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu15 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :  63750.7 total,    841.2 free,  18189.8 used,  44719.7 buff/cache
+MiB Swap:    976.0 total,    726.0 free,    250.0 used.  44156.5 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+3402739 mingmin+  20   0   29680   5416   4044 R  31.2   0.0   0:00.06 top -bcisSn1
+   1380 root      20   0  134572   9828   8976 S   6.2   0.0   0:43.04 /usr/sbin/thermald --no-daemon --db+
+   2518 root      20   0   24.3g 112752  66260 S   6.2   0.2  17:56.61 /usr/lib/xorg/Xorg vt2 -displayfd 3+
+   3031 mingmin+  20   0 2141708 276896  40960 S   6.2   0.4 233:13.35 c:/Program Files/WXWork/WXWork.exe
+   3265 mingmin+  20   0   16.9g 887484 206544 R   6.2   1.4  86:30.78 /opt/google/chrome/chrome --enable-+
+ 141865 mingmin+  20   0   24.4g 251648 105536 S   6.2   0.4   0:40.61 /opt/google/chrome/chrome --type=re+
+2508657 mingmin+  20   0   32.5g 353016 117908 S   6.2   0.5  77:58.29 /opt/google/chrome/chrome --type=re+
+2775943 root      20   0  178648  11564   9928 S   6.2   0.0   0:08.98 /usr/sbin/cups-browsed
+3382335 root      20   0 1813652  21488  15848 S   6.2   0.0   0:04.76 /usr/bin/xremote --server
+3392735 mingmin+  20   0   24.6g 204532 135060 S   6.2   0.3   0:02.01 /opt/google/chrome/chrome --type=re+
+top - 15:46:21 up 4 days,  5:00,  1 user,  load average: 1.16, 0.68, 0.64
+Tasks: 691 total,   1 running, 668 sleeping,  20 stopped,   2 zombie
+%Cpu0  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu1  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu2  :  0.0 us,  5.6 sy,  0.0 ni, 88.9 id,  5.6 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu3  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu4  :  5.3 us,  0.0 sy,  0.0 ni, 94.7 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu5  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu6  :  5.3 us, 15.8 sy,  0.0 ni, 78.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu7  :  5.3 us,  0.0 sy,  0.0 ni, 94.7 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu8  :  5.0 us,  0.0 sy,  0.0 ni, 95.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu9  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu10 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu11 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu12 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu13 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu14 :  0.0 us,  5.3 sy,  0.0 ni, 94.7 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu15 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :  63750.7 total,    920.8 free,  18174.0 used,  44655.8 buff/cache
+MiB Swap:    976.0 total,    726.0 free,    250.0 used.  44236.5 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+3402990 mingmin+  20   0   29680   5360   3988 R  11.8   0.0   0:00.02 top -bcisSn1
+   2796 mingmin+  20   0  322936   9424   8692 S   5.9   0.0   0:35.51 /usr/libexec/gsd-housekeeping
+   3309 mingmin+  20   0   16.4g 159964  88736 S   5.9   0.2  29:39.29 /opt/google/chrome/chrome --type=ut+
+2508657 mingmin+  20   0   32.5g 353016 117908 S   5.9   0.5  77:58.68 /opt/google/chrome/chrome --type=re+
+2573350 mingmin+  20   0   24.4g 175964 109548 S   5.9   0.3   4:07.48 /opt/google/chrome/chrome --type=re+
+3402324 mingmin+  20   0   24.5g 158440 110956 S   5.9   0.2   0:00.61 /opt/google/chrome/chrome --type=re+
+top - 15:46:32 up 4 days,  5:00,  1 user,  load average: 1.06, 0.67, 0.64
+Tasks: 693 total,   2 running, 669 sleeping,  20 stopped,   2 zombie
+%Cpu0  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu1  :  0.0 us,  4.8 sy,  0.0 ni, 95.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu2  :  5.0 us,  0.0 sy,  0.0 ni, 95.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu3  :  9.1 us,  4.5 sy,  0.0 ni, 86.4 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu4  :  0.0 us,  5.0 sy,  0.0 ni, 95.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu5  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu6  :  4.8 us,  4.8 sy,  0.0 ni, 90.5 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu7  :  4.5 us,  4.5 sy,  0.0 ni, 90.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu8  :  4.5 us,  4.5 sy,  0.0 ni, 90.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu9  :  0.0 us,  4.8 sy,  0.0 ni, 95.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu10 :  5.0 us,  0.0 sy,  0.0 ni, 95.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu11 :  9.5 us, 23.8 sy,  0.0 ni, 66.7 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu12 :  0.0 us,  9.5 sy,  0.0 ni, 90.5 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu13 :  4.3 us,  4.3 sy,  0.0 ni, 91.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu14 :  4.5 us,  4.5 sy,  0.0 ni, 90.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu15 :  9.5 us,  0.0 sy,  0.0 ni, 90.5 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :  63750.7 total,    926.6 free,  18181.8 used,  44642.3 buff/cache
+MiB Swap:    976.0 total,    726.0 free,    250.0 used.  44242.4 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+3402324 mingmin+  20   0   24.5g 160012 114892 S  29.4   0.2   0:01.45 /opt/google/chrome/chrome --type=re+
+3403206 mingmin+  20   0   29680   5144   3772 R  29.4   0.0   0:00.06 top -bcisSn1
+   2649 mingmin+  20   0 4938456 586824 128868 R  17.6   0.9  27:54.51 /usr/bin/gnome-shell
+   3265 mingmin+  20   0   16.8g 887012 206480 S  17.6   1.4  86:32.83 /opt/google/chrome/chrome --enable-+
+   3308 mingmin+  20   0   17.4g   1.0g 250388 S  17.6   1.7 104:51.18 /opt/google/chrome/chrome --type=gp+
+   1333 message+  20   0  690388 618440   4444 S   5.9   0.9  13:45.14 /usr/bin/dbus-daemon --system --add+
+   1433 root      20   0 4517120  52876  27016 S   5.9   0.1  41:26.63 /usr/bin/containerd
+   1765 root     -51   0       0      0      0 S   5.9   0.0  12:49.82 [irq/153-nvidia]
+   2518 root      20   0   24.3g 112752  66260 S   5.9   0.2  17:57.00 /usr/lib/xorg/Xorg vt2 -displayfd 3+
+   2672 mingmin+  20   0 1136552 147168 103980 S   5.9   0.2   0:51.85 /opt/sogoupinyin/files/bin/sogoupin+
+   2686 mingmin+  20   0  163000   7216   6848 S   5.9   0.0   0:09.79 /usr/libexec/at-spi2-registryd --us+
+   3031 mingmin+  20   0 2141708 276896  40960 S   5.9   0.4 233:14.06 c:/Program Files/WXWork/WXWork.exe
+   3036 mingmin+  20   0    9772   7036   2028 S   5.9   0.0 152:53.56 /usr/lib/i386-linux-gnu/deepin-wine+
+2508657 mingmin+  20   0   36.5g 354452 117908 S   5.9   0.5  77:59.21 /opt/google/chrome/chrome --type=re+
+top - 15:46:42 up 4 days,  5:00,  1 user,  load average: 0.89, 0.65, 0.63
+Tasks: 693 total,   1 running, 670 sleeping,  20 stopped,   2 zombie
+%Cpu0  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu1  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu2  : 14.3 us,  0.0 sy,  0.0 ni, 85.7 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu3  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu4  :  4.8 us,  0.0 sy,  0.0 ni, 95.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu5  :  5.0 us, 25.0 sy,  0.0 ni, 70.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu6  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu7  :  4.8 us,  9.5 sy,  0.0 ni, 85.7 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu8  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu9  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu10 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu11 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu12 :  0.0 us,  4.8 sy,  0.0 ni, 95.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu13 :  4.8 us,  0.0 sy,  0.0 ni, 95.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu14 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu15 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :  63750.7 total,    909.6 free,  18187.2 used,  44653.8 buff/cache
+MiB Swap:    976.0 total,    726.0 free,    250.0 used.  44225.5 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+3403448 mingmin+  20   0   29680   5356   3980 R  31.2   0.0   0:00.06 top -bcisSn1
+3366772 mingmin+  20   0   38.5g 256536 119156 S  18.8   0.4   1:57.96 /usr/share/code/code --type=rendere+
+   2518 root      20   0   24.3g 112752  66260 S   6.2   0.2  17:57.25 /usr/lib/xorg/Xorg vt2 -displayfd 3+
+   2649 mingmin+  20   0 4938456 586888 128868 S   6.2   0.9  27:55.12 /usr/bin/gnome-shell
+   3308 mingmin+  20   0   17.4g   1.0g 248328 S   6.2   1.7 104:52.04 /opt/google/chrome/chrome --type=gp+
+top - 15:46:52 up 4 days,  5:00,  1 user,  load average: 0.92, 0.66, 0.63
+Tasks: 693 total,   2 running, 669 sleeping,  20 stopped,   2 zombie
+%Cpu0  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu1  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu2  :  4.8 us,  9.5 sy,  0.0 ni, 85.7 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu3  :  4.5 us,  0.0 sy,  0.0 ni, 95.5 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu4  : 19.0 us,  9.5 sy,  0.0 ni, 71.4 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu5  :  4.8 us,  0.0 sy,  0.0 ni, 95.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu6  :  4.8 us,  0.0 sy,  0.0 ni, 95.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu7  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu8  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu9  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu10 :  0.0 us,  4.8 sy,  0.0 ni, 95.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu11 :  4.5 us,  0.0 sy,  0.0 ni, 95.5 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu12 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu13 : 10.0 us,  0.0 sy,  0.0 ni, 90.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu14 :  0.0 us,  4.5 sy,  0.0 ni, 95.5 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu15 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :  63750.7 total,    905.2 free,  18197.8 used,  44647.7 buff/cache
+MiB Swap:    976.0 total,    726.0 free,    250.0 used.  44221.2 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+3366772 mingmin+  20   0   38.6g 258844 119156 S  15.8   0.4   1:59.77 /usr/share/code/code --type=rendere+
+3403693 mingmin+  20   0   29680   5328   3952 R  10.5   0.0   0:00.05 top -bcisSn1
+   2518 root      20   0   24.3g 112752  66260 S   5.3   0.2  17:57.42 /usr/lib/xorg/Xorg vt2 -displayfd 3+
+   3036 mingmin+  20   0    9772   7036   2028 S   5.3   0.0 152:53.97 /usr/lib/i386-linux-gnu/deepin-wine+
+3359839 root      20   0       0      0      0 I   5.3   0.0   0:00.62 [kworker/u32:13-efi_rts_wq]
+3382335 root      20   0 1813652  21488  15848 S   5.3   0.0   0:04.98 /usr/bin/xremote --server
+top - 15:47:02 up 4 days,  5:00,  1 user,  load average: 0.85, 0.66, 0.63
+Tasks: 693 total,   1 running, 670 sleeping,  20 stopped,   2 zombie
+%Cpu0  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu1  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu2  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu3  :  4.8 us,  4.8 sy,  0.0 ni, 90.5 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu4  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu5  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu6  :  4.5 us,  0.0 sy,  0.0 ni, 95.5 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu7  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu8  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu9  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu10 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu11 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu12 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu13 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu14 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu15 :  9.5 us, 19.0 sy,  0.0 ni, 71.4 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :  63750.7 total,    906.6 free,  18197.3 used,  44646.8 buff/cache
+MiB Swap:    976.0 total,    726.0 free,    250.0 used.  44222.7 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+3403929 mingmin+  20   0   29680   5368   3992 R  25.0   0.0   0:00.05 top -bcisSn1
+   3031 mingmin+  20   0 2141708 276896  40960 S   6.2   0.4 233:15.04 c:/Program Files/WXWork/WXWork.exe
+  20148 mingmin+  20   0  323668   8368   7396 S   6.2   0.0   0:09.24 /usr/libexec/gvfsd-dnssd --spawner +
+2508657 mingmin+  20   0   32.5g 353116 117908 S   6.2   0.5  78:00.55 /opt/google/chrome/chrome --type=re+
+3339303 root      20   0       0      0      0 I   6.2   0.0   0:00.88 [kworker/u32:7-efi_rts_wq]
+3366772 mingmin+  20   0   38.6g 262964 119120 S   6.2   0.4   2:01.81 /usr/share/code/code --type=rendere+
+3367675 root      20   0       0      0      0 I   6.2   0.0   0:00.16 [kworker/0:2-events]
+top - 15:47:12 up 4 days,  5:01,  1 user,  load average: 0.74, 0.64, 0.63
+Tasks: 693 total,   1 running, 670 sleeping,  20 stopped,   2 zombie
+%Cpu0  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu1  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu2  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu3  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu4  :  0.0 us, 28.6 sy,  0.0 ni, 71.4 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu5  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu6  : 13.6 us, 18.2 sy,  0.0 ni, 68.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu7  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu8  :  4.8 us,  0.0 sy,  0.0 ni, 95.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu9  :  4.8 us,  9.5 sy,  0.0 ni, 85.7 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu10 :  5.0 us,  0.0 sy,  0.0 ni, 95.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu11 :  5.0 us,  0.0 sy,  0.0 ni, 95.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu12 :  5.0 us,  5.0 sy,  0.0 ni, 90.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu13 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu14 :  0.0 us,  5.0 sy,  0.0 ni, 95.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu15 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :  63750.7 total,    904.9 free,  18199.4 used,  44646.3 buff/cache
+MiB Swap:    976.0 total,    726.0 free,    250.0 used.  44221.1 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+3404171 mingmin+  20   0   29680   5364   3992 R  16.7   0.0   0:00.04 top -bcisSn1
+   2986 mingmin+  20   0  427344  38076  28056 S  11.1   0.1  29:50.84 /opt/sogoupinyin/files/bin/sogoupin+
+      1 root      20   0  171456  13568   8316 S   5.6   0.0   2:00.34 /sbin/init text
+   2649 mingmin+  20   0 4938456 586824 128868 S   5.6   0.9  27:55.99 /usr/bin/gnome-shell
+   3265 mingmin+  20   0   16.8g 886840 206592 S   5.6   1.4  86:33.81 /opt/google/chrome/chrome --enable-+
+3366772 mingmin+  20   0   38.6g 263512 119096 S   5.6   0.4   2:03.40 /usr/share/code/code --type=rendere+
+top - 15:47:23 up 4 days,  5:01,  1 user,  load average: 0.70, 0.64, 0.63
+Tasks: 693 total,   1 running, 670 sleeping,  20 stopped,   2 zombie
+%Cpu0  :  0.0 us,  0.0 sy,  0.0 ni, 95.2 id,  4.8 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu1  :  4.8 us,  0.0 sy,  0.0 ni, 95.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu2  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu3  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu4  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu5  :  0.0 us,  4.5 sy,  0.0 ni, 95.5 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu6  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu7  :  0.0 us,  5.0 sy,  0.0 ni, 95.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu8  :  0.0 us,  4.8 sy,  0.0 ni, 95.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu9  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu10 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu11 :  9.5 us,  0.0 sy,  0.0 ni, 90.5 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu12 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu13 :  0.0 us,  9.5 sy,  0.0 ni, 90.5 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu14 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu15 :  5.0 us, 15.0 sy,  0.0 ni, 80.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :  63750.7 total,    899.4 free,  18198.3 used,  44652.9 buff/cache
+MiB Swap:    976.0 total,    726.0 free,    250.0 used.  44215.7 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+3404413 mingmin+  20   0   29680   5324   3952 R  29.4   0.0   0:00.06 top -bcisSn1
+3366772 mingmin+  20   0   38.6g 271172 119080 S  17.6   0.4   2:04.73 /usr/share/code/code --type=rendere+
+   2518 root      20   0   24.3g 112752  66260 S   5.9   0.2  17:57.95 /usr/lib/xorg/Xorg vt2 -displayfd 3+
+2508657 mingmin+  20   0   32.5g 353116 117908 S   5.9   0.5  78:01.42 /opt/google/chrome/chrome --type=re+
+top - 15:47:33 up 4 days,  5:01,  1 user,  load average: 0.59, 0.61, 0.62
+Tasks: 694 total,   2 running, 670 sleeping,  20 stopped,   2 zombie
+%Cpu0  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu1  :  9.1 us, 18.2 sy,  0.0 ni, 72.7 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu2  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu3  :  9.1 us,  0.0 sy,  0.0 ni, 90.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu4  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu5  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu6  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu7  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu8  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu9  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu10 :  9.5 us, 23.8 sy,  0.0 ni, 66.7 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu11 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu12 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu13 :  8.7 us,  0.0 sy,  0.0 ni, 91.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu14 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu15 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :  63750.7 total,    909.9 free,  18182.3 used,  44658.5 buff/cache
+MiB Swap:    976.0 total,    726.0 free,    250.0 used.  44226.2 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+3404664 root      20   0   28632   3872   3484 R  20.0   0.0   0:00.04 ps aux
+3404663 mingmin+  20   0   29680   5272   3904 R  10.0   0.0   0:00.06 top -bcisSn1
+   3036 mingmin+  20   0    9772   7036   2028 S   5.0   0.0 152:54.79 /usr/lib/i386-linux-gnu/deepin-wine+
+3366772 mingmin+  20   0   38.6g 260444 119172 S   5.0   0.4   2:05.86 /usr/share/code/code --type=rendere+
+top - 15:47:43 up 4 days,  5:01,  1 user,  load average: 0.50, 0.59, 0.61
+Tasks: 693 total,   2 running, 669 sleeping,  20 stopped,   2 zombie
+%Cpu0  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu1  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu2  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu3  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu4  :  5.3 us,  0.0 sy,  0.0 ni, 94.7 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu5  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu6  : 15.8 us,  0.0 sy,  0.0 ni, 84.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu7  :  5.6 us, 11.1 sy,  0.0 ni, 83.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu8  :  5.6 us,  0.0 sy,  0.0 ni, 94.4 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu9  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu10 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu11 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu12 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu13 :  0.0 us,  5.6 sy,  0.0 ni, 94.4 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu14 :  0.0 us, 11.8 sy,  0.0 ni, 88.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu15 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :  63750.7 total,    906.9 free,  18182.7 used,  44661.1 buff/cache
+MiB Swap:    976.0 total,    726.0 free,    250.0 used.  44223.3 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+3366772 mingmin+  20   0   38.6g 268948 119172 S  23.5   0.4   2:07.22 /usr/share/code/code --type=rendere+
+  19883 mingmin+  20   0   16.5g 299372  99376 S  11.8   0.5   8:12.26 /usr/share/code/code --type=gpu-pro+
+   2518 root      20   0   24.3g 112752  66260 R   5.9   0.2  17:58.23 /usr/lib/xorg/Xorg vt2 -displayfd 3+
+   3031 mingmin+  20   0 2141708 276896  40960 S   5.9   0.4 233:16.28 c:/Program Files/WXWork/WXWork.exe
+  19848 mingmin+  20   0   20.9g 194432 131048 S   5.9   0.3   3:12.89 /usr/share/code/code --unity-launch+
+3404905 mingmin+  20   0   29680   5324   3952 R   5.9   0.0   0:00.02 top -bcisSn1
+top - 15:47:53 up 4 days,  5:01,  1 user,  load average: 0.42, 0.57, 0.61
+Tasks: 693 total,   1 running, 670 sleeping,  20 stopped,   2 zombie
+%Cpu0  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu1  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu2  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu3  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu4  :  4.5 us,  0.0 sy,  0.0 ni, 95.5 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu5  : 13.6 us,  0.0 sy,  0.0 ni, 86.4 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu6  :  4.3 us,  4.3 sy,  0.0 ni, 91.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu7  :  4.8 us,  0.0 sy,  0.0 ni, 95.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu8  :  0.0 us,  4.5 sy,  0.0 ni, 95.5 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu9  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu10 :  9.1 us, 22.7 sy,  0.0 ni, 68.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu11 :  8.7 us,  4.3 sy,  0.0 ni, 87.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu12 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu13 :  0.0 us,  4.5 sy,  0.0 ni, 95.5 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu14 :  4.5 us,  0.0 sy,  0.0 ni, 95.5 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu15 :  4.5 us,  0.0 sy,  0.0 ni, 95.5 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :  63750.7 total,    904.6 free,  18187.4 used,  44658.6 buff/cache
+MiB Swap:    976.0 total,    726.0 free,    250.0 used.  44221.1 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+3405131 mingmin+  20   0   29680   5360   3988 R  31.2   0.0   0:00.06 top -bcisSn1
+  12852 mingmin+  20   0 3008236 301656 141560 S  18.8   0.5  29:38.01 /usr/lib/firefox/firefox -contentpr+
+   2649 mingmin+  20   0 4938456 586860 128868 S  12.5   0.9  27:56.91 /usr/bin/gnome-shell
+  19883 mingmin+  20   0   16.5g 297864  96824 S  12.5   0.5   8:12.68 /usr/share/code/code --type=gpu-pro+
+3366772 mingmin+  20   0   38.6g 272760 119172 S  12.5   0.4   2:08.68 /usr/share/code/code --type=rendere+
+   3036 mingmin+  20   0    9772   7036   2028 S   6.2   0.0 152:55.18 /usr/lib/i386-linux-gnu/deepin-wine+
+   3308 mingmin+  20   0   17.4g   1.0g 248304 S   6.2   1.7 104:53.38 /opt/google/chrome/chrome --type=gp+
+2508657 mingmin+  20   0   32.5g 353216 117908 S   6.2   0.5  78:02.71 /opt/google/chrome/chrome --type=re+
+top - 15:48:03 up 4 days,  5:01,  1 user,  load average: 0.43, 0.57, 0.60
+Tasks: 693 total,   1 running, 670 sleeping,  20 stopped,   2 zombie
+%Cpu0  :  0.0 us,  4.8 sy,  0.0 ni, 95.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu1  :  8.7 us,  4.3 sy,  0.0 ni, 87.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu2  :  4.8 us,  4.8 sy,  0.0 ni, 90.5 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu3  :  4.8 us,  4.8 sy,  0.0 ni, 90.5 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu4  :  4.5 us,  4.5 sy,  0.0 ni, 90.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu5  :  4.3 us,  4.3 sy,  0.0 ni, 91.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu6  :  0.0 us,  4.5 sy,  0.0 ni, 95.5 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu7  :  9.1 us,  0.0 sy,  0.0 ni, 90.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu8  :  5.0 us, 20.0 sy,  0.0 ni, 75.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu9  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu10 : 28.6 us,  0.0 sy,  0.0 ni, 71.4 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu11 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu12 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu13 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu14 :  4.5 us,  0.0 sy,  0.0 ni, 95.5 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu15 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :  63750.7 total,    904.9 free,  18187.0 used,  44658.7 buff/cache
+MiB Swap:    976.0 total,    726.0 free,    250.0 used.  44221.5 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+3366772 mingmin+  20   0   38.6g 273956 119172 S  47.4   0.4   2:10.46 /usr/share/code/code --type=rendere+
+   2518 root      20   0   24.3g 112752  66260 S   5.3   0.2  17:58.62 /usr/lib/xorg/Xorg vt2 -displayfd 3+
+   2649 mingmin+  20   0 4938456 586888 128868 S   5.3   0.9  27:57.19 /usr/bin/gnome-shell
+   2986 mingmin+  20   0  427344  38076  28056 S   5.3   0.1  29:51.19 /opt/sogoupinyin/files/bin/sogoupin+
+   3031 mingmin+  20   0 2141708 276896  40960 S   5.3   0.4 233:16.91 c:/Program Files/WXWork/WXWork.exe
+   3308 mingmin+  20   0   17.4g   1.0g 248304 S   5.3   1.7 104:53.57 /opt/google/chrome/chrome --type=gp+
+   4724 mingmin+  20   0   24.4g 625228 129328 S   5.3   1.0  85:22.81 /opt/google/chrome/chrome --type=re+
+  19848 mingmin+  20   0   20.9g 190804 128480 S   5.3   0.3   3:13.75 /usr/share/code/code --unity-launch+
+  19883 mingmin+  20   0   16.5g 294556  96836 S   5.3   0.5   8:13.15 /usr/share/code/code --type=gpu-pro+
+  19942 mingmin+  20   0   28.5g 143728  98208 S   5.3   0.2   2:42.01 /usr/share/code/code --type=rendere+
+3405362 mingmin+  20   0   29680   5324   3952 R   5.3   0.0   0:00.05 top -bcisSn1
+top - 15:48:14 up 4 days,  5:02,  1 user,  load average: 0.36, 0.55, 0.60
+Tasks: 693 total,   1 running, 670 sleeping,  20 stopped,   2 zombie
+%Cpu0  :  4.8 us,  0.0 sy,  0.0 ni, 95.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu1  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu2  : 10.0 us, 20.0 sy,  0.0 ni, 70.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu3  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu4  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu5  : 14.3 us,  0.0 sy,  0.0 ni, 85.7 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu6  :  4.8 us,  0.0 sy,  0.0 ni, 95.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu7  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu8  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu9  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu10 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu11 :  4.8 us,  0.0 sy,  0.0 ni, 95.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu12 :  5.0 us, 10.0 sy,  0.0 ni, 85.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu13 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu14 :  4.8 us,  0.0 sy,  0.0 ni, 95.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu15 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :  63750.7 total,    890.6 free,  18198.7 used,  44661.4 buff/cache
+MiB Swap:    976.0 total,    726.0 free,    250.0 used.  44207.3 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+3366772 mingmin+  20   0   38.6g 273144 119172 S  15.8   0.4   2:12.34 /usr/share/code/code --type=rendere+
+   2518 root      20   0   24.3g 112752  66260 S   5.3   0.2  17:58.81 /usr/lib/xorg/Xorg vt2 -displayfd 3+
+   2649 mingmin+  20   0 4938456 586856 128868 S   5.3   0.9  27:57.47 /usr/bin/gnome-shell
+2508657 mingmin+  20   0   32.5g 353216 117908 S   5.3   0.5  78:03.55 /opt/google/chrome/chrome --type=re+
+3219359 root      20   0  123716  17532  15004 S   5.3   0.0  15:52.44 /usr/bin/xremote --service
+3382335 root      20   0 1813652  21488  15848 S   5.3   0.0   0:05.42 /usr/bin/xremote --server
+3405617 mingmin+  20   0   29680   5340   3968 R   5.3   0.0   0:00.05 top -bcisSn1
+top - 15:48:24 up 4 days,  5:02,  1 user,  load average: 0.31, 0.53, 0.59
+Tasks: 693 total,   1 running, 670 sleeping,  20 stopped,   2 zombie
+%Cpu0  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu1  :  4.3 us, 13.0 sy,  0.0 ni, 82.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu2  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu3  :  0.0 us,  0.0 sy,  0.0 ni, 95.7 id,  4.3 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu4  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu5  :  8.7 us,  4.3 sy,  0.0 ni, 87.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu6  :  4.3 us,  0.0 sy,  0.0 ni, 95.7 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu7  : 12.5 us,  0.0 sy,  0.0 ni, 87.5 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu8  :  4.3 us, 17.4 sy,  0.0 ni, 78.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu9  : 13.0 us, 13.0 sy,  0.0 ni, 73.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu10 : 21.7 us,  0.0 sy,  0.0 ni, 78.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu11 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu12 :  9.1 us,  0.0 sy,  0.0 ni, 90.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu13 :  4.5 us,  0.0 sy,  0.0 ni, 95.5 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu14 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu15 :  4.2 us,  4.2 sy,  0.0 ni, 91.7 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :  63750.7 total,    886.4 free,  18201.4 used,  44662.8 buff/cache
+MiB Swap:    976.0 total,    726.0 free,    250.0 used.  44203.3 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+3366772 mingmin+  20   0   38.6g 273076 119172 S  44.4   0.4   2:14.21 /usr/share/code/code --type=rendere+
+3405853 mingmin+  20   0   29680   5364   3992 R  22.2   0.0   0:00.07 top -bcisSn1
+  19848 mingmin+  20   0   20.9g 201120 132560 S  16.7   0.3   3:14.68 /usr/share/code/code --unity-launch+
+   3031 mingmin+  20   0 2141708 276896  40960 S  11.1   0.4 233:17.55 c:/Program Files/WXWork/WXWork.exe
+3367219 mingmin+  20   0   20.4g 120236  60120 S  11.1   0.2   0:12.25 /usr/share/code/code --ms-enable-el+
+   1333 message+  20   0  691400 619544   4444 S   5.6   0.9  13:47.00 /usr/bin/dbus-daemon --system --add+
+   2649 mingmin+  20   0 4938456 586856 128868 S   5.6   0.9  27:57.70 /usr/bin/gnome-shell
+   3308 mingmin+  20   0   17.4g   1.0g 248304 S   5.6   1.7 104:53.93 /opt/google/chrome/chrome --type=gp+
+  12852 mingmin+  20   0 3008236 303404 141560 S   5.6   0.5  29:38.23 /usr/lib/firefox/firefox -contentpr+
+  19942 mingmin+  20   0   28.5g 144656  98208 S   5.6   0.2   2:42.06 /usr/share/code/code --type=rendere+
+2508657 mingmin+  20   0   36.5g 354660 117908 S   5.6   0.5  78:03.99 /opt/google/chrome/chrome --type=re+
+top - 15:48:34 up 4 days,  5:02,  1 user,  load average: 0.57, 0.58, 0.61
+Tasks: 693 total,   1 running, 670 sleeping,  20 stopped,   2 zombie
+%Cpu0  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu1  :  0.0 us,  4.5 sy,  0.0 ni, 95.5 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu2  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu3  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu4  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu5  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu6  :  4.8 us,  0.0 sy,  0.0 ni, 95.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu7  :  0.0 us,  4.8 sy,  0.0 ni, 95.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu8  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu9  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu10 :  4.8 us,  0.0 sy,  0.0 ni, 95.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu11 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu12 :  4.8 us,  4.8 sy,  0.0 ni, 90.5 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu13 : 13.6 us, 18.2 sy,  0.0 ni, 68.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu14 :  4.5 us,  0.0 sy,  0.0 ni, 95.5 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu15 :  0.0 us,  4.5 sy,  0.0 ni, 95.5 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :  63750.7 total,    882.8 free,  18205.2 used,  44662.6 buff/cache
+MiB Swap:    976.0 total,    726.0 free,    250.0 used.  44199.8 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+3406085 mingmin+  20   0   29680   5352   3980 R  37.5   0.0   0:00.06 top -bcisSn1
+   3308 mingmin+  20   0   17.4g   1.0g 248304 S   6.2   1.7 104:54.12 /opt/google/chrome/chrome --type=gp+
+   3873 mingmin+  20   0   32.6g 191612  80388 S   6.2   0.3  26:19.16 /usr/lib/slack/slack --type=gpu-pro+
+   4724 mingmin+  20   0   24.4g 625032 129328 S   6.2   1.0  85:22.86 /opt/google/chrome/chrome --type=re+
+2508657 mingmin+  20   0   36.5g 354660 117908 S   6.2   0.5  78:04.41 /opt/google/chrome/chrome --type=re+
+3219359 root      20   0  123716  17532  15004 S   6.2   0.0  15:54.97 /usr/bin/xremote --service
+3344398 root      20   0       0      0      0 I   6.2   0.0   0:00.14 [kworker/12:0-events]
+3366772 mingmin+  20   0   38.6g 273740 119172 S   6.2   0.4   2:16.17 /usr/share/code/code --type=rendere+
+top - 15:48:44 up 4 days,  5:02,  1 user,  load average: 0.56, 0.58, 0.61
+Tasks: 693 total,   1 running, 670 sleeping,  20 stopped,   2 zombie
+%Cpu0  :  4.5 us,  0.0 sy,  0.0 ni, 95.5 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu1  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu2  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu3  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu4  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu5  :  4.5 us,  4.5 sy,  0.0 ni, 90.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu6  :  0.0 us, 28.6 sy,  0.0 ni, 71.4 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu7  :  9.5 us,  4.8 sy,  0.0 ni, 85.7 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu8  :  4.3 us,  4.3 sy,  0.0 ni, 91.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu9  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu10 :  4.5 us,  4.5 sy,  0.0 ni, 90.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu11 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu12 :  0.0 us,  4.5 sy,  0.0 ni, 95.5 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu13 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu14 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu15 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :  63750.7 total,    864.5 free,  18224.4 used,  44661.8 buff/cache
+MiB Swap:    976.0 total,    726.0 free,    250.0 used.  44181.6 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+3406326 mingmin+  20   0   29680   5320   3948 R  25.0   0.0   0:00.05 top -bcisSn1
+3366772 mingmin+  20   0   38.6g 272676 119172 S  12.5   0.4   2:17.69 /usr/share/code/code --type=rendere+
+   3031 mingmin+  20   0 2141708 276896  40960 S   6.2   0.4 233:18.18 c:/Program Files/WXWork/WXWork.exe
+   3308 mingmin+  20   0   17.4g   1.1g 248304 S   6.2   1.7 104:54.35 /opt/google/chrome/chrome --type=gp+
+  19848 mingmin+  20   0   20.9g 202532 131328 S   6.2   0.3   3:16.04 /usr/share/code/code --unity-launch+
+  19883 mingmin+  20   0   16.5g 300088  99440 S   6.2   0.5   8:15.27 /usr/share/code/code --type=gpu-pro+
+2508657 mingmin+  20   0   36.5g 354660 117908 S   6.2   0.5  78:04.83 /opt/google/chrome/chrome --type=re+
+top - 15:48:55 up 4 days,  5:02,  1 user,  load average: 0.63, 0.59, 0.61
+Tasks: 693 total,   1 running, 670 sleeping,  20 stopped,   2 zombie
+%Cpu0  :  5.6 us,  5.6 sy,  0.0 ni, 88.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu1  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu2  :  5.3 us,  0.0 sy,  0.0 ni, 94.7 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu3  : 10.0 us,  0.0 sy,  0.0 ni, 90.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu4  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu5  :  5.0 us,  5.0 sy,  0.0 ni, 90.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu6  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu7  :  5.0 us,  0.0 sy,  0.0 ni, 95.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu8  :  5.9 us,  0.0 sy,  0.0 ni, 88.2 id,  5.9 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu9  :  5.3 us, 15.8 sy,  0.0 ni, 78.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu10 : 10.0 us,  0.0 sy,  0.0 ni, 90.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu11 :  0.0 us,  5.3 sy,  0.0 ni, 94.7 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu12 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu13 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu14 : 10.0 us,  0.0 sy,  0.0 ni, 90.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu15 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :  63750.7 total,    870.4 free,  18218.1 used,  44662.2 buff/cache
+MiB Swap:    976.0 total,    726.0 free,    250.0 used.  44187.6 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  19848 mingmin+  20   0   20.9g 204244 131304 S  23.5   0.3   3:16.57 /usr/share/code/code --unity-launch+
+3366772 mingmin+  20   0   38.6g 273444 119172 S  17.6   0.4   2:19.58 /usr/share/code/code --type=rendere+
+3406551 mingmin+  20   0   29680   5368   3992 R  11.8   0.0   0:00.03 top -bcisSn1
+   1765 root     -51   0       0      0      0 S   5.9   0.0  12:51.21 [irq/153-nvidia]
+   2427 mingmin+  20   0   27528   6008   3880 S   5.9   0.0   1:18.74 /usr/bin/dbus-daemon --session --ad+
+   2649 mingmin+  20   0 4938456 586856 128868 S   5.9   0.9  27:58.53 /usr/bin/gnome-shell
+   3031 mingmin+  20   0 2141708 276896  40960 S   5.9   0.4 233:18.48 c:/Program Files/WXWork/WXWork.exe
+   3308 mingmin+  20   0   17.4g   1.1g 248304 S   5.9   1.7 104:54.54 /opt/google/chrome/chrome --type=gp+
+  19883 mingmin+  20   0   16.5g 300208  99520 S   5.9   0.5   8:15.72 /usr/share/code/code --type=gpu-pro+
+2508657 mingmin+  20   0   32.5g 353304 117908 S   5.9   0.5  78:05.25 /opt/google/chrome/chrome --type=re+
+top - 15:49:05 up 4 days,  5:02,  1 user,  load average: 0.68, 0.61, 0.62
+Tasks: 693 total,   1 running, 670 sleeping,  20 stopped,   2 zombie
+%Cpu0  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu1  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu2  :  5.0 us,  5.0 sy,  0.0 ni, 90.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu3  :  4.5 us, 27.3 sy,  0.0 ni, 68.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu4  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu5  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu6  :  9.5 us,  0.0 sy,  0.0 ni, 90.5 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu7  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu8  :  4.5 us,  4.5 sy,  0.0 ni, 90.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu9  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu10 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu11 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu12 :  4.8 us,  0.0 sy,  0.0 ni, 95.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu13 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu14 :  0.0 us,  4.8 sy,  0.0 ni, 95.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu15 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :  63750.7 total,    873.7 free,  18217.4 used,  44659.6 buff/cache
+MiB Swap:    976.0 total,    726.0 free,    250.0 used.  44191.1 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+3406793 mingmin+  20   0   29680   5208   3836 R  25.0   0.0   0:00.05 top -bcisSn1
+3366772 mingmin+  20   0   38.6g 272576 119172 S  18.8   0.4   2:21.70 /usr/share/code/code --type=rendere+
+   1765 root     -51   0       0      0      0 S   6.2   0.0  12:51.29 [irq/153-nvidia]
+2508657 mingmin+  20   0   32.5g 353304 117908 S   6.2   0.5  78:05.68 /opt/google/chrome/chrome --type=re+
+3367219 mingmin+  20   0   20.4g 119880  60120 S   6.2   0.2   0:13.21 /usr/share/code/code --ms-enable-el+
+top - 15:49:15 up 4 days,  5:03,  1 user,  load average: 0.66, 0.60, 0.61
+Tasks: 693 total,   1 running, 670 sleeping,  20 stopped,   2 zombie
+%Cpu0  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu1  : 10.5 us,  0.0 sy,  0.0 ni, 89.5 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu2  :  5.9 us, 11.8 sy,  0.0 ni, 82.4 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu3  :  5.6 us,  0.0 sy,  0.0 ni, 94.4 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu4  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu5  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu6  :  5.6 us,  0.0 sy,  0.0 ni, 94.4 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu7  :  0.0 us,  5.9 sy,  0.0 ni, 94.1 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu8  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu9  :  0.0 us,  5.6 sy,  0.0 ni, 94.4 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu10 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu11 :  5.3 us,  5.3 sy,  0.0 ni, 89.5 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu12 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu13 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu14 :  5.6 us,  0.0 sy,  0.0 ni, 94.4 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu15 :  0.0 us,  5.9 sy,  0.0 ni, 94.1 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :  63750.7 total,    858.6 free,  18232.7 used,  44659.4 buff/cache
+MiB Swap:    976.0 total,    726.0 free,    250.0 used.  44176.0 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  19848 mingmin+  20   0   20.9g 210856 131344 S  18.8   0.3   3:17.63 /usr/share/code/code --unity-launch+
+   3031 mingmin+  20   0 2141708 276896  40960 S   6.2   0.4 233:19.12 c:/Program Files/WXWork/WXWork.exe
+   3322 mingmin+  20   0  613808   6584   5992 S   6.2   0.0   0:01.62 /usr/libexec/xdg-document-portal
+  19883 mingmin+  20   0   16.5g 300416  99556 S   6.2   0.5   8:16.74 /usr/share/code/code --type=gpu-pro+
+  19890 mingmin+  20   0   16.3g  65732  54340 S   6.2   0.1   0:26.95 /usr/share/code/code --type=utility+
+  19942 mingmin+  20   0   28.5g 144400  98208 S   6.2   0.2   2:42.15 /usr/share/code/code --type=rendere+
+3366772 mingmin+  20   0   38.6g 272880 119172 S   6.2   0.4   2:23.53 /usr/share/code/code --type=rendere+
+3407050 mingmin+  20   0   29680   5212   3836 R   6.2   0.0   0:00.02 top -bcisSn1
+top - 15:49:25 up 4 days,  5:03,  1 user,  load average: 0.63, 0.60, 0.61
+Tasks: 693 total,   1 running, 670 sleeping,  20 stopped,   2 zombie
+%Cpu0  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu1  :  0.0 us,  4.8 sy,  0.0 ni, 95.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu2  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu3  :  9.5 us, 23.8 sy,  0.0 ni, 66.7 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu4  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu5  :  9.1 us,  4.5 sy,  0.0 ni, 86.4 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu6  :  4.5 us,  4.5 sy,  0.0 ni, 90.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu7  :  0.0 us,  4.5 sy,  0.0 ni, 95.5 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu8  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu9  :  4.8 us,  4.8 sy,  0.0 ni, 90.5 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu10 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu11 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu12 :  4.8 us,  0.0 sy,  0.0 ni, 95.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu13 :  0.0 us,  4.8 sy,  0.0 ni, 95.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu14 :  0.0 us,  4.5 sy,  0.0 ni, 95.5 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu15 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :  63750.7 total,    863.3 free,  18228.3 used,  44659.1 buff/cache
+MiB Swap:    976.0 total,    726.0 free,    250.0 used.  44180.7 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+3407275 mingmin+  20   0   29680   5360   3988 R  25.0   0.0   0:00.05 top -bcisSn1
+3366772 mingmin+  20   0   38.6g 273536 119172 S  18.8   0.4   2:25.12 /usr/share/code/code --type=rendere+
+2508657 mingmin+  20   0   36.5g 351088 117868 S  12.5   0.5  78:06.93 /opt/google/chrome/chrome --type=re+
+   2518 root      20   0   24.3g 112752  66260 S   6.2   0.2  18:00.15 /usr/lib/xorg/Xorg vt2 -displayfd 3+
+   2649 mingmin+  20   0 4938456 586824 128868 S   6.2   0.9  27:59.33 /usr/bin/gnome-shell
+   2986 mingmin+  20   0  427344  38076  28056 S   6.2   0.1  29:51.74 /opt/sogoupinyin/files/bin/sogoupin+
+   3308 mingmin+  20   0   17.4g   1.1g 248304 S   6.2   1.7 104:55.11 /opt/google/chrome/chrome --type=gp+
+   3832 mingmin+  20   0   36.6g 197616 111152 S   6.2   0.3   1:46.88 /usr/lib/slack/slack
+  19883 mingmin+  20   0   16.5g 294696  96828 S   6.2   0.5   8:17.27 /usr/share/code/code --type=gpu-pro+
+3367219 mingmin+  20   0   20.4g 119724  60120 S   6.2   0.2   0:13.55 /usr/share/code/code --ms-enable-el+
+top - 15:49:35 up 4 days,  5:03,  1 user,  load average: 0.53, 0.58, 0.61
+Tasks: 693 total,   1 running, 670 sleeping,  20 stopped,   2 zombie
+%Cpu0  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu1  :  4.8 us,  0.0 sy,  0.0 ni, 95.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu2  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu3  : 13.6 us,  0.0 sy,  0.0 ni, 86.4 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu4  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu5  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu6  :  4.8 us,  0.0 sy,  0.0 ni, 95.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu7  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu8  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu9  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu10 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu11 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu12 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu13 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu14 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu15 :  9.5 us, 19.0 sy,  0.0 ni, 71.4 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :  63750.7 total,    855.1 free,  18233.9 used,  44661.6 buff/cache
+MiB Swap:    976.0 total,    726.0 free,    250.0 used.  44172.6 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+3366772 mingmin+  20   0   38.6g 273936 119172 S  25.0   0.4   2:27.03 /usr/share/code/code --type=rendere+
+3407510 mingmin+  20   0   29680   5280   3912 R  25.0   0.0   0:00.05 top -bcisSn1
+   1333 message+  20   0  691996 620188   4444 S   6.2   1.0  13:47.97 /usr/bin/dbus-daemon --system --add+
+   3031 mingmin+  20   0 2141708 276896  40960 S   6.2   0.4 233:19.75 c:/Program Files/WXWork/WXWork.exe
+   3036 mingmin+  20   0    9772   7036   2028 S   6.2   0.0 152:57.18 /usr/lib/i386-linux-gnu/deepin-wine+
+  19848 mingmin+  20   0   20.9g 213972 131284 S   6.2   0.3   3:18.50 /usr/share/code/code --unity-launch+
+2508657 mingmin+  20   0   36.5g 351088 117868 S   6.2   0.5  78:07.35 /opt/google/chrome/chrome --type=re+
+top - 15:49:46 up 4 days,  5:03,  1 user,  load average: 0.52, 0.58, 0.61
+Tasks: 693 total,   1 running, 670 sleeping,  20 stopped,   2 zombie
+%Cpu0  :  0.0 us,  5.3 sy,  0.0 ni, 94.7 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu1  :  5.3 us,  0.0 sy,  0.0 ni, 94.7 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu2  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu3  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu4  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu5  :  0.0 us,  5.3 sy,  0.0 ni, 94.7 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu6  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu7  :  5.3 us,  5.3 sy,  0.0 ni, 89.5 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu8  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu9  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu10 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu11 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu12 :  5.0 us, 20.0 sy,  0.0 ni, 75.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu13 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu14 :  5.3 us, 10.5 sy,  0.0 ni, 84.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu15 :  4.8 us,  4.8 sy,  0.0 ni, 90.5 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :  63750.7 total,    871.5 free,  18216.9 used,  44662.2 buff/cache
+MiB Swap:    976.0 total,    726.0 free,    250.0 used.  44189.1 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2518 root      20   0   24.3g 112752  66260 S  11.1   0.2  18:00.50 /usr/lib/xorg/Xorg vt2 -displayfd 3+
+   3036 mingmin+  20   0    9772   7036   2028 S   5.6   0.0 152:57.38 /usr/lib/i386-linux-gnu/deepin-wine+
+3366772 mingmin+  20   0   38.6g 273564 119172 S   5.6   0.4   2:28.88 /usr/share/code/code --type=rendere+
+3407771 mingmin+  20   0   29680   5160   3784 R   5.6   0.0   0:00.04 top -bcisSn1
+top - 15:49:56 up 4 days,  5:03,  1 user,  load average: 0.44, 0.56, 0.60
+Tasks: 693 total,   1 running, 670 sleeping,  20 stopped,   2 zombie
+%Cpu0  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu1  :  5.0 us,  0.0 sy,  0.0 ni, 95.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu2  :  5.0 us,  0.0 sy,  0.0 ni, 95.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu3  : 15.8 us,  5.3 sy,  0.0 ni, 78.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu4  :  5.0 us,  0.0 sy,  0.0 ni, 95.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu5  : 10.5 us,  0.0 sy,  0.0 ni, 89.5 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu6  :  5.0 us,  0.0 sy,  0.0 ni, 95.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu7  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu8  :  0.0 us,  5.3 sy,  0.0 ni, 94.7 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu9  :  5.0 us,  5.0 sy,  0.0 ni, 90.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu10 :  0.0 us, 15.8 sy,  0.0 ni, 84.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu11 :  0.0 us,  5.3 sy,  0.0 ni, 94.7 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu12 :  0.0 us,  5.3 sy,  0.0 ni, 89.5 id,  5.3 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu13 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu14 : 10.5 us, 15.8 sy,  0.0 ni, 73.7 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu15 :  5.3 us,  0.0 sy,  0.0 ni, 94.7 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :  63750.7 total,    878.6 free,  18211.0 used,  44661.0 buff/cache
+MiB Swap:    976.0 total,    726.0 free,    250.0 used.  44196.2 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  19883 mingmin+  20   0   16.5g 300604  99648 S  17.6   0.5   8:19.04 /usr/share/code/code --type=gpu-pro+
+3366772 mingmin+  20   0   38.6g 274452 119172 S  17.6   0.4   2:30.59 /usr/share/code/code --type=rendere+
+  19848 mingmin+  20   0   20.9g 216204 131304 S  11.8   0.3   3:19.56 /usr/share/code/code --unity-launch+
+   1333 message+  20   0  692096 620296   4444 S   5.9   1.0  13:48.28 /usr/bin/dbus-daemon --system --add+
+   1359 root      20   0  278684  13952   9988 S   5.9   0.0   0:22.75 /usr/lib/policykit-1/polkitd --no-d+
+2508657 mingmin+  20   0   32.5g 349064 117868 S   5.9   0.5  78:08.19 /opt/google/chrome/chrome --type=re+
+3219359 root      20   0  123716  17532  15004 S   5.9   0.0  16:04.16 /usr/bin/xremote --service
+3367219 mingmin+  20   0   20.4g 119584  60120 S   5.9   0.2   0:14.24 /usr/share/code/code --ms-enable-el+
+3408009 mingmin+  20   0   29680   5148   3776 R   5.9   0.0   0:00.03 top -bcisSn1
+top - 15:50:06 up 4 days,  5:03,  1 user,  load average: 0.37, 0.54, 0.59
+Tasks: 693 total,   1 running, 670 sleeping,  20 stopped,   2 zombie
+%Cpu0  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu1  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu2  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu3  :  5.9 us,  0.0 sy,  0.0 ni, 94.1 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu4  :  5.6 us,  0.0 sy,  0.0 ni, 94.4 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu5  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu6  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu7  : 16.7 us,  5.6 sy,  0.0 ni, 77.8 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu8  :  5.6 us,  0.0 sy,  0.0 ni, 94.4 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu9  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu10 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu11 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu12 :  5.3 us,  5.3 sy,  0.0 ni, 89.5 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu13 :  0.0 us, 16.7 sy,  0.0 ni, 83.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu14 :  5.6 us,  0.0 sy,  0.0 ni, 94.4 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu15 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :  63750.7 total,    873.2 free,  18216.7 used,  44660.8 buff/cache
+MiB Swap:    976.0 total,    726.0 free,    250.0 used.  44190.8 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+3366772 mingmin+  20   0   38.6g 274056 119172 S  17.6   0.4   2:32.40 /usr/share/code/code --type=rendere+
+     92 root      20   0       0      0      0 S   5.9   0.0   0:00.95 [ksoftirqd/13]
+   1333 message+  20   0  692196 620412   4444 S   5.9   1.0  13:48.44 /usr/bin/dbus-daemon --system --add+
+   1682 root      20   0   24.2g  42888  28284 S   5.9   0.1   0:12.33 /usr/lib/xorg/Xorg vt1 -displayfd 3+
+   2649 mingmin+  20   0 4938456 586824 128868 S   5.9   0.9  28:00.53 /usr/bin/gnome-shell
+   3036 mingmin+  20   0    9772   7036   2028 S   5.9   0.0 152:57.78 /usr/lib/i386-linux-gnu/deepin-wine+
+  19883 mingmin+  20   0   16.5g 300148  99392 S   5.9   0.5   8:19.63 /usr/share/code/code --type=gpu-pro+
+3219359 root      20   0  123716  17532  15004 S   5.9   0.0  16:05.34 /usr/bin/xremote --service
+3408254 mingmin+  20   0   29680   5280   3908 R   5.9   0.0   0:00.02 top -bcisSn1
+top - 15:50:16 up 4 days,  5:04,  1 user,  load average: 0.32, 0.52, 0.58
+Tasks: 693 total,   1 running, 670 sleeping,  20 stopped,   2 zombie
+%Cpu0  :  5.9 us,  0.0 sy,  0.0 ni, 94.1 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu1  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu2  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu3  :  6.2 us,  6.2 sy,  0.0 ni, 87.5 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu4  :  5.6 us,  0.0 sy,  0.0 ni, 94.4 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu5  :  5.6 us, 11.1 sy,  0.0 ni, 83.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu6  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu7  :  0.0 us,  5.9 sy,  0.0 ni, 94.1 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu8  :  5.3 us,  5.3 sy,  0.0 ni, 89.5 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu9  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu10 :  5.3 us,  5.3 sy,  0.0 ni, 89.5 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu11 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu12 :  5.3 us,  5.3 sy,  0.0 ni, 89.5 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu13 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu14 :  0.0 us,  5.6 sy,  0.0 ni, 94.4 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu15 : 11.8 us,  0.0 sy,  0.0 ni, 88.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :  63750.7 total,    878.0 free,  18230.4 used,  44642.2 buff/cache
+MiB Swap:    976.0 total,    726.0 free,    250.0 used.  44196.0 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2649 mingmin+  20   0 4938456 586860 128868 S  11.8   0.9  28:01.27 /usr/bin/gnome-shell
+   1333 message+  20   0  692496 620716   4444 S   5.9   1.0  13:48.71 /usr/bin/dbus-daemon --system --add+
+   2672 mingmin+  20   0 1136556 147196 104008 S   5.9   0.2   0:51.96 /opt/sogoupinyin/files/bin/sogoupin+
+   3265 mingmin+  20   0   16.8g 886840 206656 S   5.9   1.4  86:35.98 /opt/google/chrome/chrome --enable-+
+   3308 mingmin+  20   0   17.4g   1.1g 255432 S   5.9   1.7 104:56.49 /opt/google/chrome/chrome --type=gp+
+2508657 mingmin+  20   0   32.5g 349064 117868 S   5.9   0.5  78:09.04 /opt/google/chrome/chrome --type=re+
+3096300 mingmin+  20   0   24.4g 182924 122284 S   5.9   0.3   0:28.89 /opt/google/chrome/chrome --type=re+
+top - 15:50:26 up 4 days,  5:04,  1 user,  load average: 0.27, 0.50, 0.58
+Tasks: 694 total,   2 running, 670 sleeping,  20 stopped,   2 zombie
+%Cpu0  :  5.0 us,  5.0 sy,  0.0 ni, 90.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu1  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu2  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu3  :  5.6 us,  0.0 sy,  0.0 ni, 94.4 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu4  :  5.3 us, 21.1 sy,  0.0 ni, 73.7 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu5  :  5.3 us,  0.0 sy,  0.0 ni, 94.7 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu6  : 10.5 us,  0.0 sy,  0.0 ni, 89.5 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu7  :  5.3 us, 10.5 sy,  0.0 ni, 84.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu8  :  5.6 us,  0.0 sy,  0.0 ni, 94.4 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu9  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu10 : 10.0 us,  5.0 sy,  0.0 ni, 85.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu11 :  5.3 us,  0.0 sy,  0.0 ni, 94.7 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu12 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu13 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu14 :  0.0 us,  5.3 sy,  0.0 ni, 94.7 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu15 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :  63750.7 total,    629.3 free,  18354.5 used,  44766.9 buff/cache
+MiB Swap:    976.0 total,    726.0 free,    250.0 used.  43948.6 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   3309 mingmin+  20   0   16.3g 159504  88540 S  18.8   0.2  29:41.26 /opt/google/chrome/chrome --type=ut+
+3402831 mingmin+  20   0   24.6g 285084 193292 R  18.8   0.4   0:00.93 /opt/google/chrome/chrome --type=re+
+   3265 mingmin+  20   0   16.9g 889044 206968 S  12.5   1.4  86:37.08 /opt/google/chrome/chrome --enable-+
+3408752 mingmin+  20   0   29680   5196   3820 R  12.5   0.0   0:00.03 top -bcisSn1
+   1380 root      20   0  134572   9828   8976 S   6.2   0.0   0:43.36 /usr/sbin/thermald --no-daemon --db+
+   2518 root      20   0   24.3g 112752  66260 S   6.2   0.2  18:01.38 /usr/lib/xorg/Xorg vt2 -displayfd 3+
+   3308 mingmin+  20   0   17.4g   1.1g 260576 S   6.2   1.7 104:57.11 /opt/google/chrome/chrome --type=gp+
+ 141865 mingmin+  20   0   24.4g 255180 104976 S   6.2   0.4   0:41.16 /opt/google/chrome/chrome --type=re+
+ 191125 root      20   0   15516   5012   4612 S   6.2   0.0   0:10.62 ./ACI/kv/kvoop 5 10 0 191107_-18129+
+top - 15:50:37 up 4 days,  5:04,  1 user,  load average: 0.23, 0.49, 0.57
+Tasks: 694 total,   1 running, 671 sleeping,  20 stopped,   2 zombie
+%Cpu0  :  0.0 us,  4.2 sy,  0.0 ni, 95.8 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu1  :  4.2 us,  0.0 sy,  0.0 ni, 95.8 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu2  :  0.0 us, 17.4 sy,  0.0 ni, 82.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu3  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu4  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu5  :  4.2 us,  0.0 sy,  0.0 ni, 95.8 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu6  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu7  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu8  :  0.0 us,  4.2 sy,  0.0 ni, 95.8 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu9  :  0.0 us,  4.2 sy,  0.0 ni, 95.8 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu10 :  4.2 us, 12.5 sy,  0.0 ni, 83.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu11 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu12 :  4.3 us,  4.3 sy,  0.0 ni, 91.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu13 :  4.3 us,  0.0 sy,  0.0 ni, 95.7 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu14 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu15 :  4.2 us,  4.2 sy,  0.0 ni, 91.7 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :  63750.7 total,    682.5 free,  18311.2 used,  44757.0 buff/cache
+MiB Swap:    976.0 total,    726.0 free,    250.0 used.  44002.9 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+3408967 mingmin+  20   0   29680   5384   4008 R  20.0   0.0   0:00.08 top -bcisSn1
+   2986 mingmin+  20   0  427344  38076  28056 S  15.0   0.1  29:52.22 /opt/sogoupinyin/files/bin/sogoupin+
+   3031 mingmin+  20   0 2141708 276896  40960 S   5.0   0.4 233:21.56 c:/Program Files/WXWork/WXWork.exe
+   3036 mingmin+  20   0    9772   7036   2028 S   5.0   0.0 152:58.37 /usr/lib/i386-linux-gnu/deepin-wine+
+   3265 mingmin+  20   0   16.9g 888824 206616 S   5.0   1.4  86:37.74 /opt/google/chrome/chrome --enable-+
+3402831 mingmin+  20   0   24.6g 306352 223788 S   5.0   0.5   0:02.91 /opt/google/chrome/chrome --type=re+
+top - 15:50:47 up 4 days,  5:04,  1 user,  load average: 0.65, 0.57, 0.60
+Tasks: 694 total,   1 running, 671 sleeping,  20 stopped,   2 zombie
+%Cpu0  :  9.5 us,  4.8 sy,  0.0 ni, 85.7 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu1  :  5.0 us,  0.0 sy,  0.0 ni, 95.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu2  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu3  :  0.0 us, 21.1 sy,  0.0 ni, 78.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu4  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu5  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu6  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu7  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu8  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu9  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu10 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu11 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu12 :  0.0 us,  5.0 sy,  0.0 ni, 95.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu13 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu14 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu15 :  5.0 us,  0.0 sy,  0.0 ni, 95.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :  63750.7 total,    655.7 free,  18329.5 used,  44765.4 buff/cache
+MiB Swap:    976.0 total,    726.0 free,    250.0 used.  43976.3 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+3366772 mingmin+  20   0   38.5g 277372 119032 S  18.8   0.4   2:32.98 /usr/share/code/code --type=rendere+
+3409190 mingmin+  20   0   29680   5368   3996 R  18.8   0.0   0:00.04 top -bcisSn1
+   2649 mingmin+  20   0 4938456 586888 128868 S  12.5   0.9  28:02.95 /usr/bin/gnome-shell
+   2518 root      20   0   24.3g 112752  66260 S   6.2   0.2  18:01.92 /usr/lib/xorg/Xorg vt2 -displayfd 3+
+   3031 mingmin+  20   0 2141708 276896  40960 S   6.2   0.4 233:21.88 c:/Program Files/WXWork/WXWork.exe
+  19883 mingmin+  20   0   16.5g 293764  96960 S   6.2   0.5   8:19.96 /usr/share/code/code --type=gpu-pro+
+2508657 mingmin+  20   0   36.5g 350832 117868 S   6.2   0.5  78:10.31 /opt/google/chrome/chrome --type=re+
+top - 15:50:57 up 4 days,  5:04,  1 user,  load average: 0.63, 0.57, 0.60
+Tasks: 694 total,   1 running, 671 sleeping,  20 stopped,   2 zombie
+%Cpu0  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu1  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu2  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu3  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu4  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu5  :  4.5 us,  0.0 sy,  0.0 ni, 95.5 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu6  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu7  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu8  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu9  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu10 :  4.8 us,  0.0 sy,  0.0 ni, 95.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu11 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu12 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu13 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu14 :  4.5 us, 27.3 sy,  0.0 ni, 68.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu15 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :  63750.7 total,    693.9 free,  18297.8 used,  44759.0 buff/cache
+MiB Swap:    976.0 total,    726.0 free,    250.0 used.  44014.8 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+3409416 mingmin+  20   0   29680   5252   3880 R  25.0   0.0   0:00.05 top -bcisSn1
+2508657 mingmin+  20   0   32.5g 349552 117868 S  12.5   0.5  78:10.79 /opt/google/chrome/chrome --type=re+
+   3031 mingmin+  20   0 2141708 276896  40960 S   6.2   0.4 233:22.22 c:/Program Files/WXWork/WXWork.exe
+   3036 mingmin+  20   0    9772   7036   2028 S   6.2   0.0 152:58.80 /usr/lib/i386-linux-gnu/deepin-wine+
+   3265 mingmin+  20   0   16.9g 888860 206644 S   6.2   1.4  86:39.35 /opt/google/chrome/chrome --enable-+
+   3308 mingmin+  20   0   17.4g   1.1g 253372 S   6.2   1.7 104:59.40 /opt/google/chrome/chrome --type=gp+
+   3309 mingmin+  20   0   16.3g 159308  88564 S   6.2   0.2  29:41.95 /opt/google/chrome/chrome --type=ut+
+  24293 root      20   0 2121280  13292  11580 S   6.2   0.0  10:37.82 /opt/teamviewer/tv_bin/teamviewerd +
+top - 15:51:07 up 4 days,  5:04,  1 user,  load average: 0.53, 0.55, 0.59
+Tasks: 694 total,   1 running, 671 sleeping,  20 stopped,   2 zombie
+%Cpu0  :  5.9 us,  0.0 sy,  0.0 ni, 94.1 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu1  : 11.1 us,  0.0 sy,  0.0 ni, 88.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu2  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu3  :  0.0 us,  5.6 sy,  0.0 ni, 94.4 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu4  :  0.0 us, 16.7 sy,  0.0 ni, 83.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu5  :  0.0 us,  5.3 sy,  0.0 ni, 94.7 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu6  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu7  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu8  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu9  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu10 :  5.6 us,  0.0 sy,  0.0 ni, 94.4 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu11 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu12 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu13 :  0.0 us,  5.6 sy,  0.0 ni, 94.4 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu14 :  5.6 us,  0.0 sy,  0.0 ni, 94.4 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu15 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :  63750.7 total,    691.2 free,  18300.0 used,  44759.4 buff/cache
+MiB Swap:    976.0 total,    726.0 free,    250.0 used.  44012.1 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+3366772 mingmin+  20   0   38.5g 248564 119052 S  12.5   0.4   2:34.32 /usr/share/code/code --type=rendere+
+   1333 message+  20   0  693500 621808   4444 S   6.2   1.0  13:50.35 /usr/bin/dbus-daemon --system --add+
+  19848 mingmin+  20   0   20.9g 218912 128452 S   6.2   0.3   3:20.52 /usr/share/code/code --unity-launch+
+2508657 mingmin+  20   0   32.5g 349552 117868 S   6.2   0.5  78:11.22 /opt/google/chrome/chrome --type=re+
+3409647 mingmin+  20   0   29680   5372   4000 R   6.2   0.0   0:00.02 top -bcisSn1
+top - 15:51:17 up 4 days,  5:05,  1 user,  load average: 0.69, 0.58, 0.60
+Tasks: 694 total,   2 running, 670 sleeping,  20 stopped,   2 zombie
+%Cpu0  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu1  :  4.5 us,  0.0 sy,  0.0 ni, 95.5 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu2  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu3  :  4.3 us,  4.3 sy,  0.0 ni, 91.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu4  :  4.5 us,  4.5 sy,  0.0 ni, 90.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu5  :  4.8 us,  0.0 sy,  0.0 ni, 95.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu6  :  4.5 us,  0.0 sy,  0.0 ni, 95.5 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu7  :  0.0 us,  4.5 sy,  0.0 ni, 95.5 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu8  : 12.0 us,  8.0 sy,  0.0 ni, 80.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu9  :  9.1 us,  0.0 sy,  0.0 ni, 90.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu10 :  4.5 us,  0.0 sy,  0.0 ni, 95.5 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu11 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu12 :  0.0 us,  4.5 sy,  0.0 ni, 95.5 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu13 : 12.0 us,  4.0 sy,  0.0 ni, 84.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu14 :  9.1 us, 22.7 sy,  0.0 ni, 68.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu15 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :  63750.7 total,    687.5 free,  18298.1 used,  44765.0 buff/cache
+MiB Swap:    976.0 total,    726.0 free,    250.0 used.  44008.4 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+3409902 mingmin+  20   0   29680   5192   3820 R  27.8   0.0   0:00.07 top -bcisSn1
+3366772 mingmin+  20   0   38.5g 262692 119052 S  11.1   0.4   2:35.36 /usr/share/code/code --type=rendere+
+3402831 mingmin+  20   0   24.6g 306232 223360 S  11.1   0.5   0:07.00 /opt/google/chrome/chrome --type=re+
+   1765 root     -51   0       0      0      0 S   5.6   0.0  12:53.78 [irq/153-nvidia]
+   2518 root      20   0   24.3g 112752  66260 S   5.6   0.2  18:02.88 /usr/lib/xorg/Xorg vt2 -displayfd 3+
+   2649 mingmin+  20   0 4938456 586860 128868 S   5.6   0.9  28:05.36 /usr/bin/gnome-shell
+   2986 mingmin+  20   0  427344  38076  28056 S   5.6   0.1  29:52.52 /opt/sogoupinyin/files/bin/sogoupin+
+   3031 mingmin+  20   0 2141708 276896  40960 S   5.6   0.4 233:22.85 c:/Program Files/WXWork/WXWork.exe
+   3265 mingmin+  20   0   16.9g 888624 206428 S   5.6   1.4  86:40.29 /opt/google/chrome/chrome --enable-+
+   3308 mingmin+  20   0   17.4g   1.1g 249276 S   5.6   1.7 105:00.41 /opt/google/chrome/chrome --type=gp+
+   3370 mingmin+  20   0   28.4g 269268 112336 R   5.6   0.4   6:25.39 /opt/google/chrome/chrome --type=re+
+   4724 mingmin+  20   0   24.4g 626260 129328 S   5.6   1.0  85:23.17 /opt/google/chrome/chrome --type=re+
+  19883 mingmin+  20   0   16.5g 300692  99196 S   5.6   0.5   8:20.96 /usr/share/code/code --type=gpu-pro+
+2508657 mingmin+  20   0   32.5g 349552 117868 S   5.6   0.5  78:11.66 /opt/google/chrome/chrome --type=re+
+top - 15:51:28 up 4 days,  5:05,  1 user,  load average: 0.82, 0.62, 0.61
+Tasks: 694 total,   1 running, 671 sleeping,  20 stopped,   2 zombie
+%Cpu0  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu1  : 11.1 us,  0.0 sy,  0.0 ni, 88.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu2  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu3  :  5.9 us,  5.9 sy,  0.0 ni, 88.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu4  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu5  :  5.3 us,  0.0 sy,  0.0 ni, 94.7 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu6  :  5.6 us,  0.0 sy,  0.0 ni, 94.4 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu7  :  5.3 us,  0.0 sy,  0.0 ni, 94.7 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu8  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu9  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu10 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu11 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu12 :  5.9 us, 11.8 sy,  0.0 ni, 82.4 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu13 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu14 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu15 :  0.0 us, 11.1 sy,  0.0 ni, 88.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :  63750.7 total,    707.9 free,  18280.9 used,  44761.8 buff/cache
+MiB Swap:    976.0 total,    726.0 free,    250.0 used.  44029.0 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2649 mingmin+  20   0 4938456 586824 128868 S  11.8   0.9  28:06.32 /usr/bin/gnome-shell
+   3036 mingmin+  20   0    9772   7036   2028 S  11.8   0.0 152:59.41 /usr/lib/i386-linux-gnu/deepin-wine+
+3410130 mingmin+  20   0   29680   5364   3992 R  11.8   0.0   0:00.02 top -bcisSn1
+   1333 message+  20   0  694204 622580   4444 S   5.9   1.0  13:51.30 /usr/bin/dbus-daemon --system --add+
+   2518 root      20   0   24.3g 112752  66260 S   5.9   0.2  18:03.30 /usr/lib/xorg/Xorg vt2 -displayfd 3+
+   3832 mingmin+  20   0   36.6g 197904 111152 S   5.9   0.3   1:46.94 /usr/lib/slack/slack
+3276369 root      20   0       0      0      0 I   5.9   0.0   0:08.48 [kworker/u32:5-efi_rts_wq]
+top - 15:51:38 up 4 days,  5:05,  1 user,  load average: 0.77, 0.61, 0.61
+Tasks: 693 total,   2 running, 669 sleeping,  20 stopped,   2 zombie
+%Cpu0  :  4.8 us,  0.0 sy,  0.0 ni, 95.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu1  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu2  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu3  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu4  :  4.5 us,  0.0 sy,  0.0 ni, 95.5 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu5  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu6  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu7  :  9.5 us, 19.0 sy,  0.0 ni, 71.4 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu8  :  0.0 us,  4.8 sy,  0.0 ni, 95.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu9  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu10 :  9.5 us,  4.8 sy,  0.0 ni, 85.7 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu11 :  0.0 us,  4.8 sy,  0.0 ni, 95.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu12 :  0.0 us, 10.0 sy,  0.0 ni, 90.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu13 : 10.0 us,  0.0 sy,  0.0 ni, 90.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu14 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu15 :  0.0 us,  4.5 sy,  0.0 ni, 95.5 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :  63750.7 total,    698.9 free,  18290.1 used,  44761.7 buff/cache
+MiB Swap:    976.0 total,    726.0 free,    250.0 used.  44020.1 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+3402831 mingmin+  20   0   24.6g 307408 223724 S  31.2   0.5   0:08.78 /opt/google/chrome/chrome --type=re+
+3410363 mingmin+  20   0   29680   5396   4020 R  31.2   0.0   0:00.05 top -bcisSn1
+   2649 mingmin+  20   0 4938456 586824 128868 R  18.8   0.9  28:06.95 /usr/bin/gnome-shell
+   3308 mingmin+  20   0   17.4g   1.1g 249276 S  12.5   1.7 105:01.45 /opt/google/chrome/chrome --type=gp+
+   1765 root     -51   0       0      0      0 S   6.2   0.0  12:54.45 [irq/153-nvidia]
+   2971 mingmin+  20   0  595384  56416  31584 S   6.2   0.1   0:27.95 /opt/apps/com.baidu.fcitx-baidupiny+
+   3031 mingmin+  20   0 2141708 276896  40960 S   6.2   0.4 233:23.44 c:/Program Files/WXWork/WXWork.exe
+   3265 mingmin+  20   0   16.9g 888532 206508 S   6.2   1.4  86:41.33 /opt/google/chrome/chrome --enable-+
+  19993 mingmin+  20   0   20.4g  84336  56316 S   6.2   0.1   6:03.66 /usr/share/code/code --ms-enable-el+
+ 141790 mingmin+  20   0   24.4g 277316 109940 S   6.2   0.4   0:44.28 /opt/google/chrome/chrome --type=re+
+2508657 mingmin+  20   0   36.5g 350892 117868 S   6.2   0.5  78:12.56 /opt/google/chrome/chrome --type=re+
+top - 15:51:48 up 4 days,  5:05,  1 user,  load average: 0.65, 0.59, 0.60
+Tasks: 694 total,   2 running, 670 sleeping,  20 stopped,   2 zombie
+%Cpu0  : 94.4 us,  5.6 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu1  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu2  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu3  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu4  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu5  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu6  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu7  : 11.8 us,  5.9 sy,  0.0 ni, 82.4 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu8  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu9  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu10 : 11.8 us,  0.0 sy,  0.0 ni, 88.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu11 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu12 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu13 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu14 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu15 : 11.8 us,  5.9 sy,  0.0 ni, 82.4 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :  63750.7 total,    645.0 free,  18344.3 used,  44761.4 buff/cache
+MiB Swap:    976.0 total,    726.0 free,    250.0 used.  43966.2 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+3410541 mingmin+  20   0 1399240 112816  51940 R 100.0   0.2   0:02.10 python3 plot_cpu.py
+   2649 mingmin+  20   0 4938456 586824 128868 S  23.5   0.9  28:07.57 /usr/bin/gnome-shell
+   2518 root      20   0   24.3g 114952  68460 S  11.8   0.2  18:03.92 /usr/lib/xorg/Xorg vt2 -displayfd 3+
+3366772 mingmin+  20   0   38.6g 263896 119092 S   5.9   0.4   2:38.46 /usr/share/code/code --type=rendere+
+top - 15:51:58 up 4 days,  5:05,  1 user,  load average: 0.63, 0.59, 0.60
+Tasks: 693 total,   1 running, 670 sleeping,  20 stopped,   2 zombie
+%Cpu0  :  5.6 us,  0.0 sy,  0.0 ni, 94.4 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu1  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu2  :  9.5 us,  4.8 sy,  0.0 ni, 85.7 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu3  :  4.8 us,  9.5 sy,  0.0 ni, 85.7 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu4  : 10.5 us,  5.3 sy,  0.0 ni, 84.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu5  :  5.6 us,  0.0 sy,  0.0 ni, 94.4 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu6  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu7  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu8  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu9  :  5.3 us,  5.3 sy,  0.0 ni, 89.5 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu10 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu11 :  5.6 us, 16.7 sy,  0.0 ni, 77.8 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu12 :  0.0 us,  5.6 sy,  0.0 ni, 94.4 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu13 :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu14 : 15.0 us,  0.0 sy,  0.0 ni, 85.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu15 :  5.6 us,  0.0 sy,  0.0 ni, 94.4 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :  63750.7 total,    701.1 free,  18287.0 used,  44762.6 buff/cache
+MiB Swap:    976.0 total,    726.0 free,    250.0 used.  44022.4 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+3366772 mingmin+  20   0   38.6g 262448 119008 S  29.4   0.4   2:38.86 /usr/share/code/code --type=rendere+
+   2649 mingmin+  20   0 4941948 588620 128868 S  17.6   0.9  28:08.73 /usr/bin/gnome-shell
+  19883 mingmin+  20   0   16.5g 297900  97992 S  17.6   0.5   8:22.40 /usr/share/code/code --type=gpu-pro+
+   1333 message+  20   0  694808 623232   4444 S  11.8   1.0  13:52.21 /usr/bin/dbus-daemon --system --add+
+   2518 root      20   0   24.3g 112752  66260 S  11.8   0.2  18:04.52 /usr/lib/xorg/Xorg vt2 -displayfd 3+
+  10611 mingmin+  20   0  909220  91384  54396 S  11.8   0.1   1:02.54 /usr/bin/python3 /usr/bin/x-termina+
+3410875 mingmin+  20   0   29680   5392   4020 R  11.8   0.0   0:00.02 top -bcisSn1
+   1765 root     -51   0       0      0      0 S   5.9   0.0  12:54.91 [irq/153-nvidia]
+   3031 mingmin+  20   0 2141708 276896  40960 S   5.9   0.4 233:24.06 c:/Program Files/WXWork/WXWork.exe
+3402831 mingmin+  20   0   24.6g 307828 224112 S   5.9   0.5   0:09.20 /opt/google/chrome/chrome --type=re+
