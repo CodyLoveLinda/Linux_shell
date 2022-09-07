@@ -1,0 +1,1 @@
+cmd_/home/autox/platsw/kernel/drivers/acash3/driver/src/modules.order := {   echo /home/autox/platsw/kernel/drivers/acash3/driver/src/acash3-vf.ko; :; } | awk '!x[$$0]++' - > /home/autox/platsw/kernel/drivers/acash3/driver/src/modules.order

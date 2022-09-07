@@ -1,0 +1,28 @@
+DESCRIPTION
+====
+
+Config_Tool - A GUI tool for generating configuration files.
+
+USAGE
+========
+There is no need to install anything else, just double-click it to run.
+
+    - Step 1:   After selecting the appropriate configuration, then click the "View" button.
+
+    - Step 2:   Click the "Generate" button to generate the configuration file.
+                (If you want to modify some parameters, you can check "Modify" and then modify)
+
+    - Step 3:   After Click the "Generate" button, A dialog box pops up, then click OK.
+                Two files "cfg_fg.json" and "md5sum.txt" will be generated in the current directory
+
+Repackage
+========
+If you modify some features of this GUI tool, you can repackage a new executable as follows.
+
+    - Step 1:   Install Python3 (version >= 3.8.9)
+
+    - Step 2:   Install tkinter:    sudo apt-get install python3-tk
+
+    - Step 3:   Install pyinstaller:   pip3 install pyinstaller
+
+    - Step 4:   Repackage a new executable:     pyinstaller -Fw Config_Tool.py
