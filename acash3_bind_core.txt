@@ -1,0 +1,4 @@
+ssh 172.20.15.10 
+cd platsw/kernel/drivers/acash3 && sudo -S <<<X@04190jAz autoxmount -m && sudo -S <<<X@04190jAz cp /autox-sz/mmzhang_cash/acash_driver_bind_core.sh ./ && sudo -S <<<X@04190jAz ./acash_driver_bind_core.sh XCU 
+
+cd platsw/kernel/drivers/acash3 && sudo -S <<<X@04190jAz autoxmount -m && sudo -S <<<X@04190jAz cp /autox-sz/mmzhang_cash/acash_driver_bind_core.sh ./ && sudo -S <<<X@04190jAz ./acash_driver_bind_core.sh IPC
